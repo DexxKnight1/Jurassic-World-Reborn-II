@@ -1,0 +1,2 @@
+background = addStretchedTexture("top_left", "modpack:loading_screen.png")
+background.setRelRender(1, 1)

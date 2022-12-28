@@ -1,0 +1,201 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:logo.png",
+            "posX" : -50,
+            "posY" : 270,
+            "width" : 95,
+            "height" : 25,
+			"imageWidth" : 543,
+			"imageHeight" : 197,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"texture" : "modpack:button2.png",
+            "posX" : -90,
+            "posY" : 56,
+            "width" : 78,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"texture" : "modpack:button2.png",
+            "posX" : 10,
+            "posY" : 56,
+            "width" : 78,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+			"texture" : "modpack:button2.png",
+            "posX" : 10,
+            "posY" : 80,
+            "width" : 78,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+			"texture" : "modpack:button2.png",
+            "posX" : -90,
+            "posY" : 80,
+            "width" : 78,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Exit",
+			"texture" : "modpack:button2.png",
+            "posX" : -50,
+            "posY" : 152,
+            "width" : 98,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "Languages",
+			"texture" : "modpack:button2.png",
+            "posX" : -50,
+            "posY" : 128,
+            "width" : 98,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		"BisectHosting":
+        {
+            "text" : "Need a server? Use code KNIGHTDEXX",
+			"texture" : "modpack:button3.png",
+            "posX" : -90,
+            "posY" : 104,
+            "width" : 178,
+            "height" : 20,
+			"imageWidth" : 1007,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://bisecthosting.com/KNIGHTDEXX"
+            }
+		},
+		
+		"Discord":
+        {
+            "text" : "",
+            "posX" : 40,
+            "posY" : 310,
+            "width" : 70,
+            "height" : 25,
+			"imageWidth" : 500,
+			"imageHeight" : 180,
+			"texture" : "modpack:discord_logo.png",
+			"alignment": "botom_left",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/YF35xyrTHu"
+            }
+        }	
+        
+    },
+	
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Created by (c)Team Jericco",
+            "posX" : 510,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {       
+        "background":
+        {
+            "image" : "modpack:background.png",
+            "mode" : "fill"
+        }
+    }
+}

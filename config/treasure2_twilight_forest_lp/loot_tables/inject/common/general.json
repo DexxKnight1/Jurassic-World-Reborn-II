@@ -1,0 +1,15 @@
+{
+	"version": "1.0",
+	"categories": [
+		"general"
+	],
+	"pools": [{
+		"name": "tf_common_items",
+		"rolls": 1,
+		"entries": [{
+			"type": "loot_table",
+			"name": "twilightforest:structures/hill_1/hill_1",
+			"weight": 1
+		}]
+	}]
+}

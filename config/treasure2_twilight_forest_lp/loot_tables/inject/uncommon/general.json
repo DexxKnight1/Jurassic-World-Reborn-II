@@ -1,0 +1,22 @@
+{
+	"version": "1.0",
+	"categories": [
+		"general"
+	],
+	"pools": [{
+		"name": "tf_uncommon_items",
+		"rolls": 1,
+		"entries": [
+			{
+				"type": "loot_table",
+				"name": "twilightforest:structures/hill_2/hill_2",
+				"weight": 1
+			},
+						{
+				"type": "loot_table",
+				"name": "twilightforest:structures/hedge_maze/hedge_maze",
+				"weight": 1
+			}
+		]
+	}]
+}
