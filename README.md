@@ -1,6 +1,6 @@
 # Jurassic World Reborn II
 
-![Welcome to JWR II](https://user-images.githubusercontent.com/78975662/209814444-97a9bd52-05c3-41ce-997f-cd64421d9cfe.png)
+![Welcome to JWR II](https://i.pinimg.com/originals/1d/c9/41/1dc94136fe02dcfb8bcc07dc04f16a28.png)
 
 This is the official repository and issue-tracker for **J**urassic **W**orld **R**eborn **II** 1.12.2
 
