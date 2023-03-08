@@ -1,3 +1,34 @@
+# [JWR2-v5.0.1] - 2023.03.08
+### Added
+- Added Adventure Tools
+- Added AI Improvements
+- Added Morpheus
+### Changed
+- Updated Ancient Spellcraft
+- Updated Aqua Acrobatics
+- Updated ArchitectureCraft
+- Updated AttributeFix
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Electroblob's Wizardry
+- Updated Entity Culling
+- Updated Just Enough Items (JEI)
+- Updated Legendary Tooltips
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Cambrian Dimension
+- Updated Prehistoric Nature Carboniferous Dimension
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Permian Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Silurian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated ReAuth
+- Updated RenderLib
+- Updated Spartan Weaponry
+- Updated The Betweenlands
+### Removed
+- Removed Prehistoric Nature Integration
 # [JWR2-v5.0.0] - 2022.12.28
 ### Added
 - Added Prehistoric Nature Precambrian Dimension
