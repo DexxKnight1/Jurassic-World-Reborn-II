@@ -1,3 +1,28 @@
+# [JWR2-v5.0.2] - 2023.06.05
+### Fixed
+- Fixed Game freezing on startup
+### Added
+- Added Phosphor Crash Fix
+- Added Prehistoric Nature Fossils
+### Changed
+- Updated Ancient Spellcraft
+- Updated Aqua Acrobatics
+- Updated BisectHosting Server Integration Menu
+- Updated CensoredASM
+- Updated Controlling
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Entity Culling
+- Updated Just Enough Items (JEI)
+- Updated Legendary Tooltips
+- Updated Lootr
+- Updated MixinBooter
+- Updated RenderLib
+- Updated Spartan Weaponry
+- Updated The Betweenlands
+- Updated Treasure2!
+### Removed
+- Removed ModDirector
 # [JWR2-v5.0.1] - 2023.03.08
 ### Added
 - Added Adventure Tools
