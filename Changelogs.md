@@ -1,3 +1,32 @@
+# [JWR2-v5.0.3] - 2023.08.24
+### Fixed
+- Fixed Spreadable plants to spread slower
+### Added
+- Added SerializationIsBad
+- Added Hesperus
+- Added Robotic Parts
+- Added ReWIRED
+### Changed
+- Updated BdLib
+- Updated BisectHosting Server Integration Mod
+- Updated Born in a Barn
+- Updated CensoredASM
+- Updated CraftTweaker
+- Updated Electroblob's Wizardry
+- Updated Ender IO
+- Updated EnderCore
+- Updated Entity Culling
+- Updated Hammer Lib
+- Updated Jurassic World Reborn Mod
+- Updated Mixin 0.7-0.8 Compatibility
+- Updated Modular Powersuits
+- Updated Numina
+- Updated Placebo
+- Updated RenderLib
+- Updated Storage Drawers
+- Updated SuperMartijn642's Config Lib
+- Updated WanionLib
+
 # [JWR2-v5.0.2] - 2023.06.05
 ### Fixed
 - Fixed Game freezing on startup
