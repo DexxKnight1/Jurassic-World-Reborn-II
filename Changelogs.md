@@ -1,3 +1,37 @@
+# [JWR2-v5.0.4] - 2023.12.25
+### Fixed
+- Fixed [Bug]: Crafting station bug #5
+### Added
+- Added Redirectionor [Retro]
+- Added Advancement Plaques
+- Added Let Me Despawn
+### Changed
+- Updated Artifacts
+- Updated Better Hurt Timer
+- Updated BisectHosting Server Integration Menu
+- Updated CensoredASM
+- Updated CraftTweaker
+- Updated CreativeCore
+- Updated Durability Tooltip
+- Updated Entity Culling
+- Updated HammerLib
+- Updated Lootr
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Cambrian Dimension
+- Updated Prehistoric Nature Carboniferous Dimension
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Fossils
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Permian Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Silurian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated SerializationIsBad
+### Removed
+- Removed ItemPhysic Full
+- Removed Phosphor
+- Removed Phosphor Crash
+- Removed MixinBootstrap
 # [JWR2-v5.0.3] - 2023.08.24
 ### Fixed
 - Fixed Spreadable plants to spread slower
