@@ -4,7 +4,7 @@
 ### Added
 - Added IO Endergy
 ### Changed
-- Reverted Better Hurt Timer to v 1.5.0.1
+- Reverted Better Hurt Timer to v1.5.0.1
 - Updated Electroblob's Wizardry
 ### Removed
 - Removed FastFurnace
