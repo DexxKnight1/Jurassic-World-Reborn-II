@@ -3,6 +3,7 @@
 - Fixed [Bug]: Crafting station bug #5
 ### Added
 - Added Redirectionor [Retro]
+- Added VintageFix
 - Added Advancement Plaques
 - Added Let Me Despawn
 ### Changed
@@ -29,6 +30,7 @@
 - Updated SerializationIsBad
 ### Removed
 - Removed ItemPhysic Full
+- Removed FoamFix
 - Removed Phosphor
 - Removed Phosphor Crash
 - Removed MixinBootstrap
