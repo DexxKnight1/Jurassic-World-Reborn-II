@@ -1,3 +1,13 @@
+# [JWR2-v5.0.5] - 2024.01.03
+### Fixed
+- Fixed Mob Crusher (Industrial Foregoing) bug
+### Added
+- Added IO Endergy
+### Changed
+- Reverted Better Hurt Timer to v 1.5.0.1
+- Updated Electroblob's Wizardry
+### Removed
+- Removed FastFurnace
 # [JWR2-v5.0.4] - 2023.12.25
 ### Fixed
 - Fixed [Bug]: Crafting station bug #5
