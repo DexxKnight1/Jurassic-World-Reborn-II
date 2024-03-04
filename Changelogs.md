@@ -1,3 +1,61 @@
+# [JWR2-v5.0.6] - 2024.03.04
+### Fixed
+- Fixed Quibit Crystal recipe bug
+### Added
+- Added FoamFix
+- Added ArtemisLib
+- Added FastFurnace
+- Added Farsight
+- Added WI Zoom
+- Added Particle Culling
+- Added Better Biome Blend
+- Added Pretty Beaches
+- Added Nothirium
+- Added Better Animal Models
+- Added Better Animals Plus
+- Added AE2 Unofficial Extended Life
+- Added Enhanced P2P
+- Added FermiumASM
+- Added FermiumBooter
+### Changed
+- Updated Faithful 32x
+- Updated Jurassic World Reborn Mod
+- Updated CensoredASM
+- Updated Roughly Enough IDs
+- Updated VintageFix
+- Updated Ancient Spellcraft
+- Updated Chunk-Pregenerator
+- Updated Corail Tombstone
+- Updated JourneyMap
+- Updated Just Enough Items (JEI)
+- Updated Entity Culling
+- Updated RenderLib
+- Updated Treasure2
+- Updated CraftTweaker
+- Updated GottschCore
+- Updated HammerLib
+- Updated SuperMartijn642's Core Lib
+### Removed
+- Removed Additional Lights
+- Removed Additional Structures
+- Removed Better Hurt Timer
+- Removed Project: Vibrant Journeys
+- Removed Psi
+- Removed Robotic Parts
+- Removed ReWIRED
+- Removed VintageFix
+- Removed Builder's Bag
+- Removed Ceramics
+- Removed Forgotten Items
+- Removed TschippLib
+- Removed ItemZoom
+- Removed Disenchanter (The Disenchanter Mod)
+- Removed Zoo & Wild Animals Rebuilt : ZAWA
+- Removed Bookworm
+- Removed Visible Armor Slots unofficial
+- Removed Applied Energistics 2
+- Removed AE2 Fluid Crafting
+- Removed CensoredASM
 # [JWR2-v5.0.5] - 2024.01.03
 ### Fixed
 - Fixed Mob Crusher (Industrial Foregoing) bug
