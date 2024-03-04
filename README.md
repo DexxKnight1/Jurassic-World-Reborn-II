@@ -21,7 +21,7 @@ These **JVM** arguments will optimize things and hopefully sort out a lot of lag
 *<sub>-Xmx12G -Xms9G -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=30 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=15 -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=2</sub>*
 
 ## Features:
-- About 335+ mods
+- About 333+ mods
 - Jurassic World Reborn (JWR) mod has to offer 91 different creatures such as dinosaurs, marine reptiles, prehistoric fish, hybrids...
 - Fossils and Archeology offers archaeological aspect for the people who like to explore more or collect beautiful new blocks
 - Beautiful Prehistoric Nature with a lot of trees, plants, fossils and many other creatures
