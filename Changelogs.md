@@ -1,3 +1,37 @@
+# [JWR2-v5.0.7] - 2024.04.12
+### Fixed
+- Fixed Minor issues
+### Added
+- Added Prehistoric Nature Jurassic Dimension
+- Added WizardryUtils
+- Added VintageFix
+### Changed
+- Updated Ancient Spellcraft
+- Updated Aqua Acrobatics
+- Updated Chunk-Pregenerator
+- Updated Controlling
+- Updated Corail Tombstone
+- Updated Electroblob's Wizardry
+- Updated FermiumBooter
+- Updated JourneyMap
+- Updated More Refined Storage
+- Updated Particle Culling
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Cambrian Dimension
+- Updated Prehistoric Nature Carboniferous Dimension
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Fossils
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Permian Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Silurian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated Redirectionor [Retro]
+- Updated SerializationIsBad
+### Removed
+- Removed ArtemisLib
+- Removed FoamFix
+- Removed Chunk Animator
 # [JWR2-v5.0.6] - 2024.03.04
 ### Fixed
 - Fixed Quibit Crystal recipe bug
