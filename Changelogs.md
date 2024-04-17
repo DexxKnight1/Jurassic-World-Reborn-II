@@ -1,3 +1,11 @@
+# [JWR2-v5.0.8] - 2024.04.17
+### Fixed
+- Fixed Main Menu missing textures
+### Changed
+- Updated Enchantment Descriptions
+- Updated HammerLib
+- Updated Inventory Tweaks
+- Updated Just Enough Resources (JER)
 # [JWR2-v5.0.7] - 2024.04.12
 ### Fixed
 - Fixed Minor issues
