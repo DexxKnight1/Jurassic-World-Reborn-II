@@ -6,6 +6,8 @@ This is the official repository and issue-tracker for **J**urassic **W**orld **R
 
 ![Discord](https://img.shields.io/discord/831803522281635850?color=blueviolet&label=Discord&logo=Discord&logoColor=blueviolet&style=for-the-badge) [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DKnightDexx%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/KnightDexx) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5EO6KT)
 
+[![MMC Reviews](https://i.imgur.com/c1ji64K.png)](https://mmcreviews.com/all/modpacks/jurassic-world-reborn-ii/)
+
 ## About the pack:
 
 If you’re a fan of dinosaurs, then this is definitely something you should be checking out. There is plenty to do, which makes this a fun and enjoyable experience in open world adventure with Prehistoric flora & fauna. A lot of dungeons, structures, temples and dimensions waiting to be explored.
