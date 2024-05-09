@@ -1,3 +1,17 @@
+# [JWR2-v5.0.9] - 2024.05.09
+### Fixed
+- Fixed Water, Lava and Oil animation issue
+### Added
+- Added Advanced Backups
+- Added DEUF - Duplicate Entity UUID Fix
+### Changed
+- Updated FermiumASM
+### Removed
+- Removed Better Placement
+- Removed Iblis Headshots
+- Removed JEI Hider
+- Removed Pack Crash Info
+- Removed FTB Backups
 # [JWR2-v5.0.8] - 2024.04.17
 ### Fixed
 - Fixed Main Menu missing textures
