@@ -1,3 +1,14 @@
+# [JWR2-v5.1.0] - 2024.05.27
+### Changed
+- Updated Ancient Spellcraft
+- Updated CraftTweaker
+- Updated Electroblob's Wizardry
+- Updated FermiumASM
+- Updated FermiumBooter
+- Updated Particle Culling
+- Updated Redirectionor [Retro]
+- Updated VintageFix
+- Updated WizardryUtils
 # [JWR2-v5.0.9] - 2024.05.09
 ### Fixed
 - Fixed Water, Lava and Oil animation issue
