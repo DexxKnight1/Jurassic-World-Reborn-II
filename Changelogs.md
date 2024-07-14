@@ -1,3 +1,78 @@
+# [JWR2-v5.1.1] - 2024.07.14
+### Added
+- Added Prehistoric Nature Decorations
+- Added Macaw's Bridges
+- Added Macaw's Fences and Walls
+- Added Macaw's Paths and Pavings
+- Added Macaw's Roofs
+- Added Macaw's Windows
+- Added Dynamic Surroundings: HUDs
+- Added Prefab
+- Added Extra Bit Manipulation
+- Added Baubley Heart Canisters
+- Added Blockcraftery
+- Added MysticalLib
+- Added Vic's Modern Warfare Mod
+- Added Security Craft
+- Added Alfheim Lighting Engine
+- Added Universal Tweaks
+### Changed
+- Updated Advanced Backups
+- Updated AE2 Unofficial Extended Life
+- Updated BisectHosting Server Integration Menu
+- Updated Controlling
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Jurassic World Reborn Mod
+- Updated MixinBooter
+- Updated RenderLib
+- Updated Roughly Enough IDs
+### Removed
+- Removed ThermalLogistics
+- Removed The Betweenlands
+- Removed Electroblob's Wizardry
+- Removed Electroblob's Wizardry: Twilight Forest Spell Pack
+- Removed Extra Spells
+- Removed Ancient Spellcraft
+- Removed WizardryUtils
+- Removed Chunk-Pregenerator
+- Removed Carbon Config
+- Removed The Erebus
+- Removed ErebusFix
+- Removed The Aether II
+- Removed The Twilight Forest
+- Removed Treasure2: Twilight Forest Loot Pack
+- Removed Treasure2: Wizardry Loot Pack
+- Removed LootBags
+- Removed Refined Storage
+- Removed Refined Storage Addons
+- Removed More Refined Storage
+- Removed Reborn Storage
+- Removed RSInfiniteWireless Fork
+- Removed Techguns
+- Removed Improvable Skills 3
+- Removed HammerLib
+- Removed Modular Powersuits
+- Removed Numina
+- Removed 燐/Hesperus
+- Removed Inventory HUD+
+- Removed Get It Together, Drops!
+- Removed AI Improvements
+- Removed AttributeFix
+- Removed Born in a Barn
+- Removed DEUF - Duplicate Entity UUID Fix
+- Removed DupeFix Project
+- Removed Fast Leaf Decay
+- Removed FastWorkbench
+- Removed Fence Jumper
+- Removed Fix Experience Bug
+- Removed Let Me Despawn
+- Removed No Recipe Book
+- Removed Save My Stronghold!
+- Removed SwingThroughGrass
+- Removed Tinkers OreDict Cache
+- Removed Toast Control
+- Removed Unloader
 # [JWR2-v5.1.0] - 2024.05.27
 ### Changed
 - Updated Ancient Spellcraft
