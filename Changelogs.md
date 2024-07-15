@@ -1,3 +1,12 @@
+# [JWR2-v5.1.2] - 2024.07.15
+### Fixed
+- Fixed Game Performance
+### Added
+- Added Modern Warfare Cubed
+### Changed
+- Updated Jurassic World Reborn Mod
+### Removed
+- Removed Vic's Modern Warfare Mod
 # [JWR2-v5.1.1] - 2024.07.14
 ### Added
 - Added Prehistoric Nature Decorations
