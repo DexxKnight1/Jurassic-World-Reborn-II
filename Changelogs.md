@@ -1,3 +1,23 @@
+# [JWR2-v5.1.3] - 2024.08.05
+### Added
+- Added RLFoliage
+- Added ChunkGenLimiter
+### Changed
+- Updated Jurassic Reborn
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Cambrian Dimension
+- Updated Prehistoric Nature Carboniferous Dimension
+- Updated Prehistoric Nature Decorations
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Fossils
+- Updated Prehistoric Nature Jurassic Dimension
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Permian Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Silurian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated Spartan Weaponry
+- Updated VintageFix
 # [JWR2-v5.1.2] - 2024.07.15
 ### Fixed
 - Fixed Game Performance
