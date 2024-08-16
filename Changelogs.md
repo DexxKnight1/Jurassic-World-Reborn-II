@@ -1,3 +1,11 @@
+# [JWR2-v5.1.4] - 2024.08.16
+### Changed
+- Updated BisectHosting Server Integration Mod
+- Updated Jurassic Reborn
+- Updated MixinBooter
+- Updated Red Core
+- Updated Storage Drawers
+- Updated Treasure2
 # [JWR2-v5.1.3] - 2024.08.05
 ### Added
 - Added RLFoliage
