@@ -1,3 +1,9 @@
+# [JWR2-v5.1.5] - 2024.08.21
+### Changed
+- Updated Alfheim Lighting Engine
+- Updated Jurassic Reborn
+- Updated MixinBooter
+- Updated Modern Warfare Cubed
 # [JWR2-v5.1.4] - 2024.08.16
 ### Changed
 - Updated BisectHosting Server Integration Mod
