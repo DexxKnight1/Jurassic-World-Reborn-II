@@ -1,4 +1,4 @@
-# [JWR2-v5.1.6] - 2024.09.09
+# [JWR2-v5.1.6] - 2024.09.11
 ### Fixed
 - Fixed Random crash caused by Prehistoric Nature mod
 ### Added
@@ -9,7 +9,6 @@
 - Updated Advanced Backups
 - Updated Alfheim Lighting Engine
 - Updated FermiumBooter
-- Updated Redirectionor [Retro]
 - Updated SuperMartijn642's Core Lib
 # [JWR2-v5.1.5] - 2024.08.21
 ### Changed
