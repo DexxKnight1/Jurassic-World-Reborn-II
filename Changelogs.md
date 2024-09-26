@@ -1,3 +1,16 @@
+# [JWR2-v5.1.7] - 2024.09.26
+### Changed
+- Updated JEI Area Fixer
+- Updated Legendary Tooltips
+- Updated MixinBooter
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Carboniferous Dimension
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated Redirectionor
+- Updated Simple Storage Network
 # [JWR2-v5.1.6] - 2024.09.11
 ### Fixed
 - Fixed Random crash caused by Prehistoric Nature mod
