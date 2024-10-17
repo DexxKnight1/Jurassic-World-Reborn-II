@@ -1,3 +1,18 @@
+# [JWR2-v5.1.8] - 2024.10.17
+### Changed
+- Updated Corail Tombstone
+- Updated JEI Area Fixer
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Decorations
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Fossils
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated Security Craft
+- Updated StellarCore
+- Updated Storage Drawers
+- Updated Treasure2
 # [JWR2-v5.1.7] - 2024.09.26
 ### Changed
 - Updated JEI Area Fixer
