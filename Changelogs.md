@@ -1,3 +1,10 @@
+# [JWR2-v5.1.9] - 2024.10.23
+### Fixed
+- Fixed Modern Warfare Steel ingot crafting recipe
+### Changed
+- Updated JEI Area Fixer
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Decorations
 # [JWR2-v5.1.8] - 2024.10.17
 ### Changed
 - Updated Corail Tombstone
