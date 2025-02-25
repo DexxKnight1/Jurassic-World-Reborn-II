@@ -1,3 +1,30 @@
+# [JWR2-v5.2.0] - 2025.02.25
+### Changed
+- Updated Advanced Backups
+- Updated Alfheim Lighting Engine
+- Updated BisectHosting Server Integration Menu
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated FermiumASM
+- Updated JourneyMap
+- Updated Jurassic Reborn
+- Updated Just Enough Items (JEI)
+- Updated MixinBooter
+- Updated MmmMmmMmmMmm (Target Dummy)
+- Updated Modern Warfare Cubed
+- Updated Nothirium
+- Updated Red Core
+- Updated Redirectionor [Retro]
+- Updated RenderLib
+- Updated Security Craft
+- Updated StellarCore
+- Updated Storage Drawers
+- Updated SuperMartijn642's Core Lib
+- Updated Treasure2
+- Updated Universal Tweaks
+- Updated VintageFix
+### Removed
+- Removed Performant
 # [JWR2-v5.1.9] - 2024.10.23
 ### Fixed
 - Fixed Modern Warfare Steel ingot crafting recipe
