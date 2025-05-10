@@ -1,3 +1,46 @@
+# [JWR2-v5.2.1] - 2025.05.10
+### Fixed
+- Fixed [Bug]: no copper for bullet crafting  #9
+### Added
+- Added GPUTape
+- Added Lazy AE2
+- Added Lazy AE2 Patch
+- Added AE2 Fluid Crafting Rework
+- Added LibNine
+### Changed
+- Faithful 32x
+- Updated AE2 Unofficial Extended Life
+- Updated Alfheim Lighting Engine
+- Updated Buildcraft
+- Updated Corail Tombstone
+- Updated FermiumASM
+- Updated FermiumBooter
+- Updated JEI Area Fixer
+- Updated MixinBooter
+- Updated MmmMmmMmmMmm (Target Dummy)
+- Updated Nothirium
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Cambrian Dimension
+- Updated Prehistoric Nature Carboniferous Dimension
+- Updated Prehistoric Nature Decorations
+- Updated Prehistoric Nature Devonian Dimension
+- Updated Prehistoric Nature Fossils
+- Updated Prehistoric Nature Jurassic Dimension
+- Updated Prehistoric Nature Ordovician Dimension
+- Updated Prehistoric Nature Permian Dimension
+- Updated Prehistoric Nature Precambrian Dimension
+- Updated Prehistoric Nature Silurian Dimension
+- Updated Prehistoric Nature Triassic Dimension
+- Updated StellarCore
+- Updated Redirectionor [Retro]
+- Updated RenderLib
+- Updated Roughly Enough IDs
+- Updated Security Craft
+- Updated Universal Tweaks 
+- Updated VintageFix
+- Updated XU2-Patcher
+### Removed
+- Removed NetherPortalFix
 # [JWR2-v5.2.0] - 2025.02.25
 ### Changed
 - Updated Advanced Backups
