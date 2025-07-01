@@ -1,3 +1,14 @@
+# [JWR2-v5.2.2] - 2025.07.01
+### Fixed
+- Fixed [Bug]: Iron plates are impossible to obtain #12
+### Changed
+- Updated Faithful 32x
+- Updated Alfheim Lighting Engine
+- Updated BisectHosting Server Integration Menu
+- Updated CraftTweaker
+- Updated Universal Tweaks
+- Updated VintageFix
+- Updated XU2-Patcher
 # [JWR2-v5.2.1] - 2025.05.10
 ### Fixed
 - Fixed [Bug]: no copper for bullet crafting  #9
