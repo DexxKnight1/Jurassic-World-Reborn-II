@@ -1,3 +1,16 @@
+# [JWR2-v5.2.3] - 2025.08.09
+### Added
+- Added FermiumMixins
+### Changed
+- Updated CraftTweaker
+- Updated Durability Tooltip
+- Updated FermiumBooter
+- Updated LibNine
+- Updated Redirectionor [Retro]
+- Updated Roughly Enough IDs
+- Updated So Many Enchantments
+- Updated Spartan Weaponry
+- Updated SuperMartijn642's Core Lib
 # [JWR2-v5.2.2] - 2025.07.01
 ### Fixed
 - Fixed [Bug]: Iron plates are impossible to obtain #12
