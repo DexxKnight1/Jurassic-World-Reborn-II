@@ -37,7 +37,7 @@ With enhanced visuals, immersive ambient sounds, and a meticulously crafted ecos
 
 ### 🦖 Prehistoric Life & Dinosaurs
 
-- **545+ Mods** carefully selected for the ultimate Jurassic experience
+- **560+ Mods** carefully selected for the ultimate Jurassic experience
 - [Jurassic Reborn (JR)](https://www.curseforge.com/minecraft/mc-mods/jurassic-reborn) - Featuring **108 different creatures** including dinosaurs, marine reptiles, prehistoric fish, and genetic hybrids
 - [Fossils & Archeology](https://www.curseforge.com/minecraft/mc-mods/fossils) - Over **60+ prehistoric creatures** that can be revived through archaeological exploration
 - Extract DNA, incubate eggs, and raise your own prehistoric companions
