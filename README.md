@@ -122,7 +122,7 @@ With enhanced visuals, immersive ambient sounds, and a meticulously crafted ecos
 
 ## 📊 Modpack Statistics
 
-- **545+ Mods** carefully selected and configured
+- **560+ Mods** carefully selected and configured
 - **108 Prehistoric Creatures** from Jurassic Reborn
 - **60+ Revivable Creatures** from Fossils & Archeology
 - **3 Major Dimensions** plus The Nether and The End
