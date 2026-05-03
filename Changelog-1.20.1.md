@@ -11,7 +11,144 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
+- [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260424) - 2026.05.03 (Latest)
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.1] - 2026.05.03
+
+> 📌 **HIGHLIGHT:** First JWR2 Update on 1.20.1! E-LITE Shaders + Advanced AE + Applied Create + 24 Mods Updated!
+
+---
+
+## ⚡ What's New in This Update
+
+- **E-LITE Shaders (MakeUp Edit)**: Stunning new shader pack added for enhanced visuals!
+- **Advanced AE**: Advanced Applied Energistics integration
+- **Applied Create**: Create mod integration with Applied Energistics
+- **24 Mods Updated**: Botania, KubeJS, ModernFix, Sophisticated Storage, and more for improved stability and features!
+- **Solas Shader Updated**: Visual enhancements and performance improvements
+
+---
+
+## 🔧 Fixed
+
+No bug fixes in this update — pure content addition and stability improvements!
+
+---
+
+## ➕ Added
+
+### 🆕 New Shaders (1)
+
+| Shader | Purpose | Category |
+|--------|---------|----------|
+| **E-LITE shaders (MakeUp edit)** | Premium visual enhancement | Shaders |
+
+### 🆕 New Mods (2)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **Advanced AE** | Advanced Applied Energistics functionality | Tech/Storage |
+| **Applied Create** | Create and Applied Energistics cross-integration | Tech/Integration |
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders
+
+- **Solas Shader** - Visual enhancements and performance improvements
+
+### 📦 Updated Mods (24)
+
+<details>
+<summary><strong>View All 24 Updated Mods</strong></summary>
+
+- **AmbientSounds 6** - Ambient audio enhancements
+- **Applied TaCZ** - Weapons system updates
+- **Botania** - Magic flora system updates
+- **Cable Facades** - Cable concealment updates
+- **Collective** - Core library stability
+- **Crafting Tweaks** - Crafting UI improvements
+- **CreativeCore** - Core library updates
+- **Cyclops Core** - Core library stability
+- **ExtendedAE** - Applied Energistics expansion updates
+- **Gnetum** - Plant/content updates
+- **Inventory Essentials** - Inventory management improvements
+- **Ixeris** - Content and features updates
+- **Just Enough Breeding (JEBr)** - Breeding information updates
+- **KubeJS** - Scripting and customization improvements
+- **MBS - Moog's Bountiful Structures** - Structure generation updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect descriptions updates
+- **ModernFix** - Performance optimization updates
+- **MVS - Moog's Voyager Structures** - Structure generation updates
+- **Neruina - Ticking Entity Fixer** - Entity performance improvements
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **TrashSlot** - Inventory trash functionality updates
+- **Villager Names** - Villager naming updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Shaders (1)
+
+- **MakeUp - Ultra Fast Shaders** - Replaced by E-LITE shaders (MakeUp edit)
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.0 | v1.0.1 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | Initial Release | 0 Fixes | Content Focus |
+| **New Mods** | Base Pack | 2 New Mods | Advanced AE + Applied Create |
+| **New Shaders** | Base Pack | 1 | E-LITE Shaders |
+| **Mods Updated** | Base Pack | 24 | Stability update |
+| **Mods Removed** | Base Pack | 1 | MakeUp - Ultra Fast Shaders |
+| **Forge Version** | 47.4.20 | 47.4.20 | ✅ Latest Stable |
+| **Overall Impact** | 🦖✨ Initial Release | 🦖🔥🔥🔥🔥🔥 | First Update! |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **⚡ Advanced AE**: Explore new Applied Energistics features
+- **🔧 Applied Create**: Test Create and AE2 integration
+- **🎨 E-LITE Shaders**: Test stunning new shader visuals
+- **🏗️ Structure Verification**: Verify Moog's structures generate correctly
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+This is the **first update** for Jurassic World Rebor II on Minecraft 1.20.1! This release focuses on **expanding technical gameplay** with Advanced AE and Applied Create integration, while E-LITE shaders bring a stunning visual upgrade to your Jurassic experience. Combined with 24 mod updates, this update lays a solid foundation for the JWR2 journey on 1.20.1.
+
+**Update Priority:** HIGH (First major content expansion)
+
+**Recommendation:** Update to get the full JWR2 experience with new tech and visuals!
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Rebor II GitHub](https://github.com/DexxKnight1/JurassicWorldReborII)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/JurassicWorldReborII/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-rebor-ii)
 
 ---
 # 🎮✨ [JWR2-v1.0.0] - 2026.04.24
