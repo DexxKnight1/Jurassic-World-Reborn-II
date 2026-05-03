@@ -132,7 +132,7 @@ With enhanced visuals, immersive ambient sounds, and a meticulously crafted ecos
 
 ---
 
-![Server Hosting Banner](https://i.pinimg.com/originals/65/32/56/6532567a92d1b504e57aafc36700abdb.png)
+![Server Hosting Banner](https://www.bisecthosting.com/partners/custom-banners/fd1be5c2-6afd-4000-8095-0e31ef4da735.png)
 
 [![BisectHosting Banner](https://www.bisecthosting.com/partners/custom-banners/802e623b-03cd-4476-8269-0589d107b142.webp)](https://bisecthosting.com/KNIGHTDEXX)
 
