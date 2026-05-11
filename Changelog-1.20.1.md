@@ -11,8 +11,125 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03 (Latest)
+- [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11 (Latest)
+- [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.2] - 2026.05.11
+
+> 📌 **HIGHLIGHT:** 26 Mods Updated for Stability & Performance! Maintenance update to keep JWR2 running smoothly!
+
+---
+
+## ⚡ What's New in This Update
+
+- **26 Mods Updated**: AmbientSounds 6, ModernFix, Mystical Agriculture, Sophisticated Storage, TaCZ, Tinkers' Thinking, and more for improved stability and performance!
+- **Pure maintenance update** — no new content, just keeping everything fresh and compatible!
+
+---
+
+## 🔧 Fixed
+
+No bug fixes in this update — pure stability and performance improvements!
+
+---
+
+## ➕ Added
+
+No new mods or shaders added in this update.
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (26)
+
+<details>
+<summary><strong>View All 26 Updated Mods</strong></summary>
+
+- **AmbientSounds 6** - Ambient audio enhancements
+- **BandwidthOptimizer** - Network bandwidth optimization
+- **Blueprint** - Schematic and building system updates
+- **Colorwheel** - Color management updates
+- **Crash Assistant** - Crash reporting improvements
+- **Drippy Loading Screen** - Loading screen enhancements
+- **Entity Culling** - Entity visibility optimization
+- **FancyMenu** - Menu customization updates
+- **FLIB** - Library updates
+- **G3 Doors** - Door system updates
+- **MES - Moog's End Structures** - End structure generation updates
+- **MNS - Moog's Nether Structures** - Nether structure generation updates
+- **ModernFix** - Performance optimization updates
+- **Moonlight Lib** - Library updates
+- **MSS - Moog's Soaring Structures** - Sky structure generation updates
+- **MTR - Moog's Temples Reimagined** - Temple structure generation updates
+- **Mystical Agriculture** - Resource crop system updates
+- **Particle Rain** - Particle effects enhancements
+- **Reliquary Reincarnations** - Relic system updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **[TaCZ] Timeless and Classics Zero Guns** - Weapons system updates
+- **TaCZ Tweaks** - TaCZ balance and tweaks updates
+- **Tinkers' Thinking** - Tinkers' Construct integration updates
+- **Townstead** - Town structure updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+No mods were removed in this update.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.1 | v1.0.2 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | 0 Fixes | 0 Fixes | Stability Focus |
+| **New Mods** | 2 New Mods | 0 | Maintenance release |
+| **New Shaders** | 1 | 0 | None |
+| **Mods Updated** | 24 | 26 | Broader stability update |
+| **Mods Removed** | 1 | 0 | None |
+| **Forge Version** | 47.4.20 | 47.4.20 | ✅ Latest Stable |
+| **Overall Impact** | 🦖🔥🔥🔥🔥🔥 | 🦖🔥🔥🔥 | Maintenance |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **⚡ Performance Check**: Verify ModernFix and BandwidthOptimizer improvements
+- **🏗️ Structure Verification**: Verify Moog's structures generate correctly
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+This is a **maintenance update** for Jurassic World Reborn II, focusing on keeping all 26 updated mods running at their latest stable versions. While there's no new content this time, regular mod maintenance is essential for long-term pack stability and compatibility.
+
+**Update Priority:** MEDIUM (Recommended for ongoing stability)
+
+**Recommendation:** Update to ensure optimal performance and compatibility.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-rebor-ii)
 
 ---
 
@@ -145,8 +262,8 @@ This is the **first update** for Jurassic World Rebor II on Minecraft 1.20.1! Th
 
 ## 🔗 Links
 
-- **GitHub Repository**: [Jurassic World Rebor II GitHub](https://github.com/DexxKnight1/JurassicWorldReborII)
-- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/JurassicWorldReborII/issues)
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
 - **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
 - **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-rebor-ii)
 
