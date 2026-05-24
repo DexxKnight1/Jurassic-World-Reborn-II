@@ -11,9 +11,132 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11 (Latest)
+- [[1.0.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v103---20260524) - 2026.05.24 (Latest)
+- [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.3] - 2026.05.24
+
+> 📌 **HIGHLIGHT:** Au The Leaks Added + Complementary Shaders Updated + 17 Mods Refreshed!
+
+---
+
+## ⚡ What's New in This Update
+
+- **Au The Leaks - Au Naturel Edit**: New memory leak fix mod replacing AllTheLeaks for better performance
+- **Complementary Shaders – Reimagined**: Visual and performance enhancements
+- **Complementary Shaders - Unbound**: Visual and performance enhancements
+- **17 Mods Updated**: ModernFix, Sophisticated Storage, Moonlight Lib, and more for improved stability!
+
+---
+
+## 🔧 Fixed
+
+No specific bug fixes in this update — memory leak fix replacement and general stability improvements!
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (1)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **Au The Leaks - Au Naturel Edit** | Memory leak fix replacement | Performance |
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (2)
+
+| Shader | Changes |
+|--------|---------|
+| **Complementary Shaders – Reimagined** | Visual and performance enhancements |
+| **Complementary Shaders - Unbound** | Visual and performance enhancements |
+
+### 📦 Updated Mods (17)
+
+<details>
+<summary><strong>View All 17 Updated Mods</strong></summary>
+
+- **Async Logger** - Logging performance improvements
+- **BandwidthOptimizer** - Network optimization updates
+- **Colorwheel** - UI color utilities updates
+- **CreativeCore** - Core library updates
+- **Cyclic** - Utility updates
+- **Euphoria Patches** - Compatibility and performance fixes
+- **Gnetum** - Plant/content updates
+- **Ixeris** - Content and features updates
+- **Just Enough Breeding (JEBr)** - Breeding information updates
+- **Kerria** - Content updates
+- **ModernFix** - Performance optimization updates
+- **Moonlight Lib** - Core library updates
+- **Pipez Lag Fix** - Pipe performance improvements
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **TConJEI** - Tinkers' Construct JEI integration updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (1)
+
+- **AllTheLeaks (Memory Leak Fix)** — Replaced by Au The Leaks - Au Naturel Edit
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.2 | v1.0.3 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | Content Focus | 1 Replacement | Memory leak fix swap |
+| **New Mods** | 0 New Mods | 1 New Mod | Au The Leaks |
+| **Shaders Updated** | 0 | 2 | Complementary (Reimagined + Unbound) |
+| **Mods Updated** | 26 | 17 | Stability update |
+| **Mods Removed** | 0 | 1 | AllTheLeaks |
+| **Forge Version** | 47.4.20 | 47.4.20 | ✅ Latest Stable |
+| **Overall Impact** | 🦖🔥🔥🔥🔥🔥 | 🦖🔥🔥🔥🔥 | Performance Focus! |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **⚡ Au The Leaks**: Improved memory leak management for smoother gameplay
+- **🎨 Complementary Shaders**: Test updated shader visuals (both Reimagined & Unbound)
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+This update focuses on **performance and stability** with the replacement of AllTheLeaks with the more efficient Au The Leaks - Au Naturel Edit. Both Complementary Shader variants have been updated for improved visuals and performance. With 17 mods refreshed, this update ensures a smoother Jurassic experience!
+
+**Update Priority:** Recommended (Performance improvements)
+
+**Recommendation:** Update for better memory management and shader performance.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
