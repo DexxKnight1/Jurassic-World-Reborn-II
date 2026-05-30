@@ -11,10 +11,126 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v103---20260524) - 2026.05.24 (Latest)
+- [[1.0.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v104---20260530) - 2026.05.30 (Latest)
+- [[1.0.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v103---20260524) - 2026.05.24
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.4] - 2026.05.30
+
+> 📌 **HIGHLIGHT:** MalisisDoors & MalisisSwitches Reborn Added + 18 Mods Updated!
+
+---
+
+## ⚡ What's New in This Update
+
+- **MalisisDoorsReborn**: New and improved door mechanics (replaces Malisis Doors Revived)
+- **MalisisSwitchesReborn**: New switch mechanics for interactive builds
+- **18 Mods Updated**: [TaCZ] Timeless and Classics Zero Guns, Botania, ModernFix, Sophisticated Storage, and more!
+
+---
+
+## 🔧 Fixed
+
+No bug fixes in this update — new content additions and mod updates!
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (2)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **MalisisDoorsReborn** | Enhanced door mechanics (replaces Malisis Doors Revived) | Decoration/Mechanics |
+| **MalisisSwitchesReborn** | Interactive switch mechanics | Decoration/Mechanics |
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (18)
+
+<details>
+<summary><strong>View All 18 Updated Mods</strong></summary>
+
+- **[TaCZ] Timeless and Classics Zero Guns** - Weapons system updates
+- **BandwidthOptimizer** - Network optimization updates
+- **Botania** - Magic flora system updates
+- **Cable Facades** - Cable concealment updates
+- **Colorwheel** - UI color utilities updates
+- **Gnetum** - Plant/content updates
+- **GottschCore** - Core library updates
+- **Ixeris** - Content and features updates
+- **JamLib** - Library updates
+- **Kerria** - Content updates
+- **KleeSlabs** - Slab interaction updates
+- **MMV - Moog's Missing Villages** - Village structure generation updates
+- **ModernFix** - Performance optimization updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **TaCZ Tweaks** - TaCZ weapons tweaks updates
+- **TT20 (TPS Fixer)** - Server TPS performance updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (1)
+
+- **Malisis Doors Revived** — Replaced by MalisisDoorsReborn
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.3 | v1.0.4 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | 1 Replacement | 0 Fixes | Content Focus |
+| **New Mods** | 1 New Mod | 2 New Mods | MalisisDoorsReborn + MalisisSwitchesReborn |
+| **Mods Updated** | 17 | 18 | Stability update |
+| **Mods Removed** | 1 | 1 | Malisis Doors Revived |
+| **Forge Version** | 47.4.20 | 47.4.20 | ✅ Latest Stable |
+| **Overall Impact** | 🦖🔥🔥🔥🔥 | 🦖🔥🔥🔥🔥🔥 | Content Expansion! |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🚪 MalisisDoorsReborn**: Explore new door mechanics and animations
+- **🔘 MalisisSwitchesReborn**: Add interactive switches to your builds
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+This update brings back and improves the beloved Malisis mods! MalisisDoorsReborn and MalisisSwitchesReborn add new interactive mechanics to enhance your Jurassic builds. With 18 mods refreshed, this update keeps the pack running smoothly while expanding creative possibilities!
+
+**Update Priority:** Recommended (New content and mod updates)
+
+**Recommendation:** Update for the new door and switch mechanics!
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
