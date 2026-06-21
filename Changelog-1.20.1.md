@@ -11,11 +11,207 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v104---20260530) - 2026.05.30 (Latest)
+- [[1.0.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v105---20260621) - 2026.06.21 (Latest)
+- [[1.0.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v104---20260530) - 2026.05.30
 - [[1.0.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v103---20260524) - 2026.05.24
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.5] - 2026.06.21
+
+> 📌 **HIGHLIGHT:** Massive Optimization Update! 17 Mods Removed + 55 Updated + 3 New Mods + 1 New Shader!
+
+---
+
+## ⚡ What's New in This Update
+
+- **🔥 17 Mods Removed**: Almost all MCreator mods purged — massive performance & memory improvement!
+- **🔄 55 Mods Updated**: Biggest update batch in JWR2 history!
+- **🆕 3 New Mods Added**: Jurassic Reborn Natural Spawning Addon - BOP, JEIOptimizer, Just Dire Things
+- **🎨 1 New Shader**: E-LITE shaders (MakeUp edit)
+- **⚙️ Config Optimization**: Multiple performance & stability tweaks
+
+---
+
+## 🔧 Fixed & Improved
+
+- **⚙️ Config Tweaks**: Multiple settings adjusted for better performance and stability
+- **🧹 MCreator Purge**: Almost all MCreator mods removed — they caused significant memory usage and performance issues
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (3)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **Jurassic Reborn Natural Spawning Addon - Biomes O' Plenty Addition** | Natural dinosaur spawning in BOP biomes | Content |
+| **JEIOptimizer** | JEI performance optimization | Performance |
+| **Just Dire Things** | Direwolf20's utility mod — useful tools and gadgets | Utility |
+
+---
+
+## 🔄 Changed
+
+### ⚙️ Forge Version
+
+| Version | Previous | New | Reason |
+|---------|----------|-----|--------|
+| Forge | 47.4.20 | **47.4.20** | Unchanged |
+
+### 🎨 Updated Shaders (1)
+
+| Shader | Changes |
+|--------|---------|
+| **E-LITE shaders (MakeUp edit)** | Visual enhancements |
+
+### 📦 Updated Mods (55)
+
+<details>
+<summary><strong>View All 55 Updated Mods</strong></summary>
+
+- [TaCZ] Curios For Ammo Box
+- Advanced Peripherals
+- Applied Sorting
+- Async Logger
+- BandwidthOptimizer
+- Cable Facades
+- Chat Heads
+- Collective
+- Colorwheel
+- Corail Tombstone
+- Create: New Age
+- Custom Nether Portals [Any Shape Nether Portals]
+- Deimos Lib
+- Dynamic Trees
+- Dynamic Trees Addon Lib
+- Entity Culling
+- Euphoria Patches
+- ExtendedAE
+- FancyMenu
+- Farsight
+- Fossils and Archeology: Revival
+- FTB Chunks
+- FTB Library
+- Fusion (Connected Textures)
+- GeckoLib
+- Gnetum
+- GuideME
+- Inventory Essentials
+- Immersive Aircraft
+- Jade Addons
+- Kerria
+- MalisisDoorsReborn
+- MCA Reborn
+- McJtyLib
+- MNS - Moog's Nether Structures
+- ModernFix
+- Moog's Structure Lib (moogs_structures)
+- Moonlight Lib
+- Neruina - Ticking Entity Fixer
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- Project: Vibrant Journeys
+- Reliquary Reincarnations
+- Repurposed Structures
+- Reskillable Reimagined
+- RFTools Base
+- RFTools Builder
+- RFTools Control
+- RFTools Power
+- RFTools Utility
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- TaCZ Tweaks
+- Townstead
+- Underlay
+- Villager Names
+- XNet
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (17)
+
+*Purged for performance — mostly MCreator mods:*
+
+| Mod | Reason |
+|-----|--------|
+| **AchievementOptimizer** | Performance cleanup |
+| **Quarky Registry Fix** | Performance cleanup |
+| **Ixeris** | Performance cleanup |
+| **Thulium** | Performance cleanup |
+| **Adaptive Optimization (reborn)** | Performance cleanup |
+| **Fast Loading** | Performance cleanup |
+| **Mods Fixer** | Performance cleanup |
+| **Sync Fix** | Performance cleanup |
+| **Sync Fix Core** | Performance cleanup |
+| **LightSpeedRe** | Performance cleanup |
+| **Reflex AntiLag** | Performance cleanup |
+| **MysticalExpansion** | MCreator mod — performance issues |
+| **Particle Rain** | MCreator mod — performance issues |
+| **Night Config Fixes** | Mod discontinued |
+| **ServerConfigCleaner** | Incompatibility issues |
+| **Reinforced Crate mod (from Actually Additions)** | MCreator mod — performance issues |
+| **Archeological** | Performance cleanup |
+| **TT20 (TPS Fixer)** | Acting weird in single-player mode |
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.4 | v1.0.5 | Changes |
+|----------|--------|--------|---------|
+| **Mods Removed** | 1 | **17** | 🗑️🔥🔥🔥🔥🔥🔥🔥🔥 |
+| **Mods Updated** | 18 | **55** | 🔄🔥🔥🔥🔥🔥🔥🔥🔥 |
+| **New Mods** | 2 | 3 | 🆕🔥🔥🔥🔥🔥 |
+| **Shaders Updated** | 0 | 1 | 🎨🔥🔥🔥 |
+| **Forge Version** | 47.4.20 | **47.4.20** | ✅ Stable |
+| **Overall Impact** | 🎮🔥🔥🔥 | 🎮🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **MASSIVE Optimization!** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Mandatory! 17 mods removed — worlds may be affected!
+2. **⚠️ 17 Mods Removed** – Check if your worlds/saves used any removed mods
+
+### After Updating
+
+- **🦕 Natural Spawning Addon** – Dinosaurs now naturally spawn in Biomes O' Plenty biomes
+- **🗑️ MCreator Mods Gone** – Expect smoother gameplay, faster chunk loading, less memory usage
+- **🎨 E-LITE Shaders** – Test updated shader visuals (MakeUp edit)
+- **✅ Script Verification** – Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+**Massive optimization update for Jurassic World Reborn II!** We've purged almost all MCreator mods from the pack, removing 17 problematic mods that caused memory and performance issues. 55 mods have been refreshed, 3 new mods added including the Jurassic Reborn Natural Spawning Addon for Biomes O' Plenty, and E-LITE shaders join the lineup. The result? A smoother, faster, more stable Jurassic experience! 💚
+
+**Update Priority:** HIGH (Performance & optimization improvements)
+
+**Recommendation:** Update as soon as possible — massive performance gains!
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
