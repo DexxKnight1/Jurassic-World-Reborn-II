@@ -37,7 +37,7 @@ With enhanced visuals, immersive ambient sounds, and a meticulously crafted ecos
 
 ### 🦖 Prehistoric Life & Dinosaurs
 
-- **560+ Mods** carefully selected for the ultimate Jurassic experience
+- **550+ Mods** carefully selected for the ultimate Jurassic experience
 - [Jurassic Reborn (JR)](https://www.curseforge.com/minecraft/mc-mods/jurassic-reborn) - Featuring **108 different creatures** including dinosaurs, marine reptiles, prehistoric fish, and genetic hybrids
 - [Fossils & Archeology](https://www.curseforge.com/minecraft/mc-mods/fossils) - Over **60+ prehistoric creatures** that can be revived through archaeological exploration
 - Extract DNA, incubate eggs, and raise your own prehistoric companions
@@ -122,7 +122,7 @@ With enhanced visuals, immersive ambient sounds, and a meticulously crafted ecos
 
 ## 📊 Modpack Statistics
 
-- **560+ Mods** carefully selected and configured
+- **550+ Mods** carefully selected and configured
 - **108 Prehistoric Creatures** from Jurassic Reborn
 - **60+ Revivable Creatures** from Fossils & Archeology
 - **3 Major Dimensions** plus The Nether and The End
@@ -140,7 +140,7 @@ Want to play **Jurassic World Reborn II** with your friends? Get a high-performa
 
 #### 💻 Server Requirements
 
-- **Minimum:** 14GB RAM
+- **Minimum:** 12GB RAM
 - **Recommended:** 16GB RAM for optimal performance
 - **Expected Performance:** Stable 20 TPS with multiple players exploring
 
