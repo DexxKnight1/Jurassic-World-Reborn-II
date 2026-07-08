@@ -11,12 +11,154 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v105---20260621) - 2026.06.21 (Latest)
+- [[1.0.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v106---20260708) - 2026.07.08 (Latest)
+- [[1.0.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v105---20260621) - 2026.06.21
 - [[1.0.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v104---20260530) - 2026.05.30
 - [[1.0.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v103---20260524) - 2026.05.24
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.6] - 2026.07.08
+
+> 📌 **HIGHLIGHT:** 35 Mods Updated + 2 Shaders Refreshed — Smooth Performance Polish!
+
+---
+
+## ⚡ What's New in This Update
+
+- **35 Mods Updated**: Botania, Just Enough Items, Sophisticated series, ModernFix, Security Craft, and more
+- **2 Shaders Updated**: E-LITE shaders (MakeUp edit) refreshed + **Solas Shader** added to the lineup
+- **Performance Polish**: Continued optimization and maintenance across the pack
+- **Stable Build**: Continuing on Forge 47.4.20 for maximum stability
+
+---
+
+## 🔧 Fixed
+
+\- No specific bug fixes in this update
+
+---
+
+## ➕ Added
+
+\- No new mods added in this update
+
+---
+
+## 🔄 Changed
+
+### ⚙️ Forge Version
+
+| Version | Previous | New | Reason |
+|---------|----------|-----|--------|
+| Forge | 47.4.20 | **47.4.20** | Unchanged — most stable release |
+
+### 🎨 Updated Shaders (2)
+
+| Shader | Changes |
+|--------|---------|
+| **E-LITE shaders (MakeUp edit)** | Visual refresh and performance enhancements |
+| **Solas Shader** | New shader addition — enhanced lighting and visuals |
+
+### 📦 Updated Mods (35)
+
+<details>
+<summary><strong>View All 35 Updated Mods</strong></summary>
+
+- **Applied TaCZ** - Weapon system updates
+- **Async Logger** - Logging performance improvements
+- **Balm** - Library/utility updates
+- **BandwidthOptimizer** - Network optimization updates
+- **Botania** - Magic flora system updates
+- **Carry On Extend** - Carry mechanics extension updates
+- **Collective** - Utility library updates
+- **Common Network** - Network library updates
+- **Corail Tombstone** - Grave system updates
+- **CreativeCore** - Core library updates
+- **Cupboard** - Storage/library updates
+- **Exotic Birds** - Bird content updates
+- **FancyMenu** - Menu customization updates
+- **Food Effect Tooltips** - UI tooltip improvements
+- **Fusion (Connected Textures)** - Connected textures updates
+- **ImmediatelyFast** - Performance optimization updates
+- **Inventory Essentials** - Inventory management updates
+- **Just Dire Things** - Content updates
+- **Just Enough Items (JEI)** - Recipe viewer updates
+- **Kerria** - Content updates
+- **MalisisDoorsReborn** - Door mechanics updates
+- **MCA Reborn** - Villager interaction updates
+- **ME Requester** - AE2 request system updates
+- **MNS - Moog's Nether Structures** - Nether structure updates
+- **ModernFix** - Performance optimization updates
+- **Moog's Structure Lib (moogs_structures)** - Structure library updates
+- **MVS - Moog's Voyager Structures** - Voyager structure updates
+- **quick pack** - Utility updates
+- **Reskillable Reimagined** - Skill system updates
+- **Security Craft** - Security system updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **Sophisticated Storage Create Integration** - Create storage integration updates
+- **TaCZ Tweaks** - TaCZ weapon tweaks updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+\- No mods removed in this update
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.5 | v1.0.6 | Changes |
+|----------|--------|--------|---------|
+| **Mods Updated** | 58 | 35 | 🔄🔥🔥🔥🔥 |
+| **Shaders Updated** | 1 | 2 | 🎨🔥🔥🔥🔥🔥 |
+| **New Mods** | 3 | 0 | Maintenance release |
+| **Mods Removed** | 17 | 0 | Clean slate |
+| **Forge Version** | 47.4.20 | **47.4.20** | ✅ Stable |
+| **Overall Impact** | 🎮🔥🔥🔥🔥🔥 | 🎮🔥🔥🔥 | **Polish & Performance** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+2. **⚠️ Shader Update** – Solas Shader added — test compatibility with your system.
+
+### After Updating
+
+- **🎨 Solas Shader**: New shader option available — test and compare visuals with E-LITE
+- **🎨 E-LITE Shaders**: Refreshed — check for any visual changes
+- **🔄 35 Mods Updated**: Verify mod compatibility with existing scripts and custom configurations
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A clean maintenance polish for Jurassic World Reborn II! Thirty-five mods have been brought up to their latest versions for improved performance and stability. Two shaders get some love — E-LITE (MakeUp edit) has been refreshed, and Solas Shader joins the lineup to give players more visual options. Nothing added, nothing removed — just a solid round of updates to keep the pack running smoothly. Continuing on Forge 47.4.20 for rock-solid stability! 💚
+
+**Update Priority:** LOW (Maintenance update — update at your convenience)
+
+**Recommendation:** Update when convenient to get the latest mod versions and new shader option.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
