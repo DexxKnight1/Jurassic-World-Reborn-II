@@ -11,13 +11,142 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v106---20260708) - 2026.07.08 (Latest)
+- [[1.0.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v107---20260718) - 2026.07.18 (Latest)
+- [[1.0.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v106---20260708) - 2026.07.08
 - [[1.0.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v105---20260621) - 2026.06.21
 - [[1.0.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v104---20260530) - 2026.05.30
 - [[1.0.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v103---20260524) - 2026.05.24
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.7] - 2026.07.18
+
+> 📌 **HIGHLIGHT:** 4 New Custom Main Menu Tracks + 24 Mods Updated + Forge Upgraded to 47.4.21!
+
+---
+
+## ⚡ What's New in This Update
+
+- **4 Custom Main Menu Tracks Added**: Brand-new original music replacing the old Main Menu tracks!
+- **24 Mods Updated**: Corail Tombstone, ModernFix, MCA Reborn, Sophisticated series, and more
+- **1 Mod Removed**: JourneyMap Integration (developers don't follow JourneyMap updates)
+- **Forge 47.4.21**: Upgraded from 47.4.20 for improved compatibility and stability
+
+---
+
+## 🔧 Fixed
+
+\- No specific bug fixes in this update
+
+---
+
+## ➕ Added
+
+### 🎵 New Custom Main Menu Music (4 Tracks)
+
+The Main Menu now features **4 brand-new custom-made tracks** to enhance the Jurassic atmosphere!
+
+---
+
+## 🔄 Changed
+
+### ⚙️ Forge Version
+
+| Version | Previous | New | Reason |
+|---------|----------|-----|--------|
+| Forge | 47.4.20 | **47.4.21** | Improved compatibility and stability |
+
+### 📦 Updated Mods (24)
+
+<details>
+<summary><strong>View All 24 Updated Mods</strong></summary>
+
+- **[TaCZ] Applied Ammo Box** - Ammo box integration updates
+- **Applied Create** - Create integration updates
+- **Balm** - Library utility updates
+- **BisectHosting Server Integration Menu** - Server menu updates
+- **Corail Tombstone** - Grave/tombstone system updates
+- **Crash Assistant** - Crash handling updates
+- **FancyMenu** - Custom menu updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **Just Dire Things** - Content updates
+- **Just Enough Items (JEI)** - Recipe browser updates
+- **MalisisDoorsReborn** - Door mechanics updates
+- **MalisisSwitchesReborn** - Switch mechanics updates
+- **MCA Reborn** - NPC interaction updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **ModernFix** - Performance optimization updates
+- **Moog's Structure Lib (moogs_structures)** - Structure library updates
+- **Neruina - Ticking Entity Fixer** - Entity fix updates
+- **Reliquary Reincarnations** - Relic system updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **Sophisticated Storage Create Integration** - Create storage integration updates
+- **TACT - Tiny Alex's Caves Tweaks** - Alex's Caves tweak updates
+- **Titanium** - Library utility updates
+- **Underlay** - UI rendering updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (1)
+
+| Mod | Reason |
+|-----|--------|
+| **JourneyMap Integration** | Mod developers don't follow JourneyMap updates |
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.6 | v1.0.7 | Changes |
+|----------|--------|--------|---------|
+| **Custom Music** | 0 Tracks | 4 Tracks | 🎵🔥🔥🔥🔥 |
+| **Mods Updated** | 35 | 24 | 🔄🔥🔥🔥🔥 |
+| **Mods Removed** | 0 | 1 | 🗑️🔥 |
+| **Forge Version** | 47.4.20 | **47.4.21** | ✅ Upgraded |
+| **Overall Impact** | 🎮🔥🔥 | 🎮🔥🔥🔥 | **Fresh Audio Experience** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+2. **⚠️ Forge Version Change** – Upgraded from 47.4.20 to 47.4.21. Ensure no conflicts.
+
+### After Updating
+
+- **🎵 New Main Menu Music**: Enjoy 4 brand-new custom tracks!
+- **🧹 JourneyMap Integration Removed**: JourneyMap itself still works — only the integration addon is removed
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+This update brings a fresh audio identity to Jurassic World Reborn II! The Main Menu now features **4 custom-made tracks** that set the perfect Jurassic atmosphere. We've also upgraded Forge to 47.4.21 for better compatibility and updated 24 mods to keep everything running smoothly. JourneyMap Integration was removed as its developers aren't keeping up with JourneyMap updates — the core JourneyMap mod remains fully functional! 🦖💚
+
+**Update Priority:** MEDIUM (New audio content + maintenance)
+
+**Recommendation:** Update for the new custom music and latest mod versions.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
