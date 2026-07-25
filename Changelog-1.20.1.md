@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v107---20260718) - 2026.07.18 (Latest)
+- [[1.0.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v108---20260725) - 2026.07.25 (Latest)
+- [[1.0.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v107---20260718) - 2026.07.18
 - [[1.0.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v106---20260708) - 2026.07.08
 - [[1.0.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v105---20260621) - 2026.06.21
 - [[1.0.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v104---20260530) - 2026.05.30
@@ -19,6 +20,138 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.8] - 2026.07.25
+
+> 📌 **HIGHLIGHT:** 3 New Mods + 22 Mods Updated + 2 Mods Removed for Content & Cleanup!
+
+---
+
+## ⚡ What's New in This Update
+
+- **3 New Mods Added**: [TaCZ] Tacz Bullet Improvement, Sophisticated Chest Optimized, LightStar
+- **22 Mods Updated**: Async Logger, BandwidthOptimizer, Chat Heads, ExtendedAE, Fusion, ModernFix, Sophisticated series, and more
+- **2 Mods Removed**: MBS (mistakenly included — requires Bountiful mod), GeckolibBetterFPS (crashing issues)
+- **Stable Build**: Continuing on Forge 47.4.22 for maximum stability
+
+---
+
+## 🔧 Fixed
+
+- No specific bug fixes in this update — mod additions, updates, and cleanup
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (3)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **[TaCZ] Tacz Bullet Improvement** | Enhanced bullet physics for TaCZ weapons | Gameplay |
+| **Sophisticated Chest Optimized** | Optimized chest storage for better performance | Performance |
+| **LightStar** | Client-side lighting optimization — 2x faster lighting, 49% faster chunk building | Performance |
+
+---
+
+## 🔄 Changed
+
+### ⚙️ Forge Version
+
+| Version | Previous | New | Reason |
+|---------|----------|-----|--------|
+| Forge | 47.4.22 | **47.4.22** | Unchanged — most stable release |
+
+### 📦 Updated Mods (22)
+
+<details>
+<summary><strong>View All 22 Updated Mods</strong></summary>
+
+- **Async Logger** - Logging system updates
+- **BandwidthOptimizer** - Network optimization updates
+- **Chat Heads** - UI chat enhancements
+- **CodeChicken Lib 1.8.+** - Core library updates
+- **ExtendedAE** - AE2 extension updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **Jade 🔍** - Block information tooltip updates
+- **Just Dire Things** - Content updates
+- **Just Enough Items (JEI)** - Recipe browsing updates
+- **Just Enough Mekanism Multiblocks** - Mekanism multiblock integration updates
+- **MalisisDoorsReborn** - Door mechanics updates
+- **MalisisSwitchesReborn** - Switch mechanics updates
+- **Mana Jade** - Mana/block info integration updates
+- **MCA Reborn** - NPC interaction updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **ModernFix** - Performance optimization updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **Sophisticated Storage Create Integration** - Create mod storage integration updates
+- **Townstead** - Town structure updates
+- **Treasure2** - Treasure content updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (2)
+
+| Mod | Reason |
+|-----|--------|
+| **MBS - Moog's Bountiful Structures** | Mistakenly included in the pack — requires the Bountiful mod which isn't present |
+| **GeckolibBetterFPS** | Acts weird and the latest update causes game crashes — cannot update |
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.7 | v1.0.8 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 0 New Mods | 3 New Mods | 🆕🔥🔥🔥🔥🔥 |
+| **Mods Updated** | 22 | 22 | 🔄🔥🔥🔥🔥 |
+| **Mods Removed** | 1 | 2 | 🗑️🔥🔥 |
+| **Forge Version** | 47.4.22 | **47.4.22** | ✅ Stable |
+| **Overall Impact** | 🦖🔥🔥🔥 | 🦖🔥🔥🔥🔥 | **Content & Cleanup Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+2. **⚠️ MBS Removed** – Structures from Moog's Bountiful Structures will no longer generate. Verify your worlds don't depend on them.
+3. **⚠️ GeckolibBetterFPS Removed** – Should resolve crashing issues caused by the mod.
+
+### After Updating
+
+- **💥 [TaCZ] Tacz Bullet Improvement**: Enhanced bullet physics for TaCZ weapons — test weapon performance
+- **📦 Sophisticated Chest Optimized**: Improved chest storage performance — verify existing chests
+- **✨ LightStar**: Lighting optimization mod — 2x faster lighting calculations, 49% faster chunk building, smoother exploration
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A solid content and cleanup update for Jurassic World Reborn II! Three new mods join the pack — Tacz Bullet Improvement enhances weapon physics, Sophisticated Chest Optimized boosts storage performance, and LightStar brings massive lighting optimizations (2x faster lighting, 49% faster chunk building, 99.94% less dynamic light stutter). We've cleaned house by removing MBS (mistakenly included without its dependency) and GeckolibBetterFPS (causing crashes on latest version). Continuing on Forge 47.4.22 for rock-solid stability! 💚
+
+**Update Priority:** MEDIUM (Content and cleanup update)
+
+**Recommendation:** Update to get the latest mod versions, performance improvements, and cleaner mod list.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
