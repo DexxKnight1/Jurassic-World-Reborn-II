@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v108---20260725) - 2026.07.25 (Latest)
+- [[1.0.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v109---20260801) - 2026.08.01 (Latest)
+- [[1.0.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v108---20260725) - 2026.07.25
 - [[1.0.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v107---20260718) - 2026.07.18
 - [[1.0.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v106---20260708) - 2026.07.08
 - [[1.0.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v105---20260621) - 2026.06.21
@@ -20,6 +21,145 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.0.9] - 2026.08.01
+
+> 📌 **HIGHLIGHT:** Dino Spawn Fix + Villager Profession Fix + 2 New Data Packs + 2 New Mods + 21 Mods Updated!
+
+---
+
+## ⚡ What's New in This Update
+
+- **Dino Spawn Fix**: Dinos now spawn more frequently — no more empty islands!
+- **Villager Profession Fix**: Modded villagers' professions restored — MCA Reborn removed
+- **2 New Data Packs**: Trek (150+ structures) & Sunken Spires (11 ocean structures)
+- **2 New Mods Added**: BetterBlockZ & Simple Discord Rich Presence
+- **21 Mods Updated**: [TaCZ] Optimization, JEI, LightStar, MFFS, and more
+- **4 Mods Removed**: MCA Reborn & addons, Pioneer & addon (all caused problems)
+
+---
+
+## 🔧 Fixed
+
+- **Fixed dinos' spawn rate** — Dinos should now spawn more frequently
+- **Fixed modded villagers' professions** — MCA Reborn was breaking them, so it has been removed
+
+---
+
+## ➕ Added
+
+### 🗺️ New Data Packs (2)
+
+| Data Pack | Description | Category |
+|-----------|-------------|----------|
+| **Trek** | Adds over 150 custom structures across biomes — buried desert villages, jungle treehouses, pirate coves and more | Exploration |
+| **Sunken Spires** | 11 unique ocean structures with variants — fallen cities, ruins, mini-bosses with unique loot & archaeology opportunities | Exploration |
+
+### 🆕 New Mods (2)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **BetterBlockZ** | Decorative block sets (Ztones continuation) — modern, industrial, fantasy & futuristic designs | Cosmetic/Building |
+| **Simple Discord Rich Presence** | Displays your current Minecraft status on Discord | Cosmetic/QoL |
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (21)
+
+<details>
+<summary><strong>View All 21 Updated Mods</strong></summary>
+
+- **[TaCZ] Optimization** - TaCZ performance optimization updates
+- **Balm** - Cross-loader library updates
+- **Chunk Sending** - Network chunk transfer optimization updates
+- **Drippy Loading Screen** - Loading screen visual updates
+- **FancyMenu** - Custom menu updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **G3 Doors** - Door mechanics updates
+- **Glassential Renewed** - Glass block updates
+- **Gnetum** - Plant content updates
+- **JEIOptimizer** - JEI performance optimization updates
+- **Just Dire Things** - Content updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Just Enough Mekanism Multiblocks** - Mekanism multiblock info updates
+- **LightStar** - Client-side lighting computation optimization updates
+- **MalisisDoorsReborn** - Malisis doors mechanics updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **Modular Force Field Systems (MFFS)** - Force field systems updates
+- **quick pack** - Utility updates
+- **Reskillable Reimagined** - Skill system updates
+- **Sophisticated Storage** - Storage system improvements
+- **SuperMartijn642's Core Lib** - Core library updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Mods Removed (4)
+
+| Mod | Reason |
+|-----|--------|
+| **MCA Reborn** | Breaks some modded villagers' professions |
+| **Townstead** | MCA Reborn addon |
+| **Pioneer** | Adds 20 biomes that prevent dinos from naturally spawning |
+| **Dynamic Trees - Project: Vibrant Journeys - Pioneer** | Pioneer addon |
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.8 | v1.0.9 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | 0 Fixes | 2 Fixes | 🐛🔥🔥🔥🔥 |
+| **New Data Packs** | 0 | 2 | 🗺️🔥🔥🔥 |
+| **New Mods** | 3 New Mods | 2 New Mods | 🆕🔥🔥 |
+| **Mods Updated** | 22 | 21 | 🔄🔥🔥 |
+| **Mods Removed** | 2 | 4 | ➖ Cleanup |
+| **Forge Version** | 47.4.22 | **47.4.22** | ⚡ Unchanged |
+| **Overall Impact** | 🎮🔥🔥 | 🎮🔥🔥🔥 | **Dino Spawn Fix Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🦖 Dino Spawn Rate**: Dinos now spawn more frequently — expect more encounters while exploring
+- **👨‍🌾 Villager Professions**: Modded villagers' professions work correctly again
+- **🗺️ Trek Structures**: Over 150 new custom structures generate in unexplored chunks
+- **🌊 Sunken Spires**: Ocean ruins and fallen cities generate in unexplored ocean chunks
+- **🧱 BetterBlockZ**: New decorative block sets available for building
+- **🎮 Discord Presence**: Your Minecraft status now shows on Discord while playing
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+This update focuses on making the island feel alive again! Two important fixes are included: dino spawn rates are fixed — dinos should now spawn much more frequently, and modded villagers' professions are fixed — MCA Reborn (which broke them) has been removed along with its addon Townstead. We've also added two exploration data packs: Trek brings over 150 custom structures across all biomes, while Sunken Spires adds mysterious ocean ruins with mini-bosses and archaeology. BetterBlockZ gives builders new decorative block sets, and Simple Discord Rich Presence lets you share your in-game status on Discord. On the cleanup side, Pioneer (whose biomes blocked dino spawning) was also removed along with its addon — a necessary change for the dino experience. 21 mods refreshed to keep everything running smoothly on Forge 47.4.22! 💚
+
+**Update Priority:** HIGH (Dino spawn fix — recommended for all players)
+
+**Recommendation:** Update to enjoy the dino spawn fix and explore the new structures!
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
