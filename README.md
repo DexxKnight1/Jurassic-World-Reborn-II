@@ -1,4 +1,4 @@
-![Jurassic World Reborn II Banner](https://i.pinimg.com/originals/1d/c9/41/1dc94136fe02dcfb8bcc07dc04f16a28.png)
+![Jurassic World Reborn II Banner](https://i.pinimg.com/1200x/1b/b4/b3/1bb4b3c6fdbc4795ba0a31090c32a03e.jpg)
 
 [![Discord](https://img.shields.io/discord/831803522281635850?label=Discord&color=393939&labelColor=4a94fb&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JMqZhxk7gA)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DKnightDexx%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/KnightDexx)
