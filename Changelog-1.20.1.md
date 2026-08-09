@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.0.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v109---20260801) - 2026.08.01 (Latest)
+- [[1.1.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v110---20260809) - 2026.08.09 (Latest)
+- [[1.0.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v109---20260801) - 2026.08.01
 - [[1.0.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v108---20260725) - 2026.07.25
 - [[1.0.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v107---20260718) - 2026.07.18
 - [[1.0.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v106---20260708) - 2026.07.08
@@ -21,6 +22,126 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.0] - 2026.08.09
+
+> 📌 **HIGHLIGHT:** 3 New Mods (Map Tools + Custom Loading) + 19 Mods Updated!
+
+---
+
+## ⚡ What's New in This Update
+
+- **3 New Mods Added**: JourneyMap Web Map, Compass to Map addon & Simple Custom Early Loading
+- **19 Mods Updated**: JourneyMap, JEI, Corail Tombstone, Sophisticated Storage, and more
+- **1 Mod Removed**: Drippy Loading Screen (replaced by Simple Custom Early Loading)
+
+---
+
+## 🔧 Fixed
+
+- No bug fixes in this update
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (3)
+
+| Mod | Purpose | Category |
+|-----|---------|----------|
+| **Simple Custom Early Loading** | Customize the Forge early loading screen — replaces Drippy Loading Screen | Cosmetic |
+| **JourneyMap Web Map** | View your JourneyMap in a web browser via local web interface | Map & Information |
+| **Compass to Map** | JourneyMap & Explorer's Compass & Nature's Compass addon — mark compass-found locations on the map | Map & Information |
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (19)
+
+<details>
+<summary><strong>View All 19 Updated Mods</strong></summary>
+
+- **AdvancedAE** - AE2 advanced features updates
+- **BetterBlockZ** - Decorative block updates
+- **Chat Heads** - Chat UI updates
+- **Chunk Sending** - Network optimization updates
+- **Corail Tombstone** - Tombstone content updates
+- **CorgiLib** - Core library updates
+- **JEIOptimizer** - JEI performance updates
+- **JourneyMap** - Map mod updates
+- **Just Dire Things** - Content updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **Laser Bridges & Doors** - Laser content updates
+- **MalisisDoorsReborn** - Door mechanics updates
+- **MalisisSwitchesReborn** - Switch mechanics updates
+- **Reskillable Reimagined** - Progression/skill updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **SuperMartijn642's Core Lib** - Core library updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Mods Removed (1)
+
+| Mod | Reason |
+|-----|--------|
+| **Drippy Loading Screen** | Replaced by Simple Custom Early Loading mod |
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.0.9 | v1.1.0 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | 2 Fixes | 0 Fixes | Maintenance release |
+| **New Mods** | 2 New Mods | 3 New Mods | 🆕🔥🔥🔥 |
+| **Mods Updated** | 21 | 19 | 🔄🔥🔥 |
+| **Mods Removed** | 4 | 1 | ➖ Cleanup |
+| **Forge Version** | 47.4.22 | **47.4.22** | ⚡ Unchanged |
+| **Overall Impact** | 🎮🔥🔥🔥 | 🎮🔥🔥🔥 | **Map & Loading Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🗺️ JourneyMap Web Map**: View your world map in any web browser
+- **🧭 Compass to Map**: Find and mark compass locations (Explorer's & Nature's Compass) directly on the map
+- **🎨 Simple Custom Early Loading**: Enjoy the new customizable early loading screen
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A map-focused update for Jurassic World Reborn II! JourneyMap Web Map lets you view your world map directly in a browser, while the Compass to Map addon connects Explorer's & Nature's Compass results straight to your JourneyMap. We've also replaced Drippy Loading Screen with Simple Custom Early Loading for a customizable early loading screen. 19 mods refreshed to keep everything running smoothly on Forge 47.4.22! 💚
+
+**Update Priority:** LOW (Maintenance update with new map tools)
+
+**Recommendation:** Update at your convenience to enjoy the new map features and loading screen.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
