@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v110---20260809) - 2026.08.09 (Latest)
+- [[1.1.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v111---20260816) - 2026.08.16 (Latest)
+- [[1.1.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v110---20260809) - 2026.08.09
 - [[1.0.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v109---20260801) - 2026.08.01
 - [[1.0.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v108---20260725) - 2026.07.25
 - [[1.0.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v107---20260718) - 2026.07.18
@@ -22,6 +23,125 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.1] - 2026.08.16
+
+> 📌 **HIGHLIGHT:** 1 Critical Fix (Tooltips) + 28 Mods Updated for Continued Stability!
+
+---
+
+## ⚡ What's New in This Update
+
+- **1 Critical Fix**: Tooltips no longer render multiple times — duplicate-immune wrapper
+- **28 Mods Updated**: JourneyMap, JEI, ModernFix, Sophisticated Storage, Treasure2, and more
+- **No Mods Added or Removed**: Clean maintenance update
+
+---
+
+## 🔧 Fixed
+
+### 🛠️ Critical Fix
+
+- **Tooltips Rendering Multiple Times** — Tooltip lines are now added through a duplicate-immune wrapper that checks for existing lines before adding, so every tooltip renders exactly once regardless of handler re-registration
+
+---
+
+## ➕ Added
+
+- No new mods added in this update
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (28)
+
+<details>
+<summary><strong>View All 28 Updated Mods</strong></summary>
+
+- **Amendments** - Block & gameplay tweaks updates
+- **Applied TaCZ** - TaCZ addon updates
+- **Async Logger** - Logging optimization updates
+- **BandwidthOptimizer** - Network optimization updates
+- **Chat Heads** - Chat UI updates
+- **Chunk Sending** - Network optimization updates
+- **Crash Assistant** - Crash reporting improvements
+- **Cupboard** - Core library updates
+- **ExtendedAE** - AE2 extended terminal updates
+- **FancyMenu** - Menu customization updates
+- **JourneyMap** - Map mod updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Lootr Liason** - Lootr integration updates
+- **MalisisDoorsReborn** - Door mechanics updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **ModernFix** - Performance optimization updates
+- **Modular Force Field Systems (MFFS)** - Force field system updates
+- **quick pack** - Pack optimization updates
+- **Reliquary Reincarnations** - Reliquary content updates
+- **Reskillable Reimagined** - Progression/skill updates
+- **Sophisticated Backpacks** - Backpack storage enhancements
+- **Sophisticated Core** - Storage core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **Sophisticated Storage Create Integration** - Create storage integration updates
+- **SuperMartijn642's Core Lib** - Core library updates
+- **Tinker's Planner Reborn** - Tinkers' Construct planning tool updates
+- **Trash Cans** - Item disposal updates
+- **Treasure2** - Treasure/loot content updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+- No mods removed in this update
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.0 | v1.1.1 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | 0 Fixes | 1 Fix | 🔧🔥🔥🔥🔥 |
+| **New Mods** | 3 New Mods | 0 New Mods | ➖ None |
+| **Mods Updated** | 19 | 28 | 🔄🔥🔥🔥 |
+| **Mods Removed** | 1 | 0 | ✅ Clean |
+| **Forge Version** | 47.4.22 | **47.4.22** | ⚡ Unchanged |
+| **Overall Impact** | 🎮🔥🔥🔥 | 🎮🔥🔥🔥 | **Stability & Fix Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🛠️ Tooltip Fix**: Tooltips now render exactly once — no more duplicate tooltip lines
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A clean stability update for Jurassic World Reborn II! The tooltip fix eliminates duplicate tooltip rendering through a duplicate-immune wrapper, ensuring every tooltip displays exactly once. We've refreshed 28 mods to keep everything running smoothly on Forge 47.4.22. No mods were added or removed — a clean, focused maintenance update! 💚
+
+**Update Priority:** LOW (Maintenance update with critical tooltip fix)
+
+**Recommendation:** Update at your convenience for the tooltip fix and latest mod versions.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
