@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v111---20260816) - 2026.08.16 (Latest)
+- [[1.1.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v112---20260830) - 2026.08.30 (Latest)
+- [[1.1.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v111---20260816) - 2026.08.16
 - [[1.1.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v110---20260809) - 2026.08.09
 - [[1.0.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v109---20260801) - 2026.08.01
 - [[1.0.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v108---20260725) - 2026.07.25
@@ -23,6 +24,142 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.2] - 2026.08.30
+
+> 📌 **HIGHLIGHT:** 33 Mods Updated + Solas Shader Refreshed + Forge Upgraded to 47.4.23!
+
+---
+
+## ⚡ What's New in This Update
+
+- **33 Mods Updated**: Botania, JourneyMap, Repurposed Structures, Reskillable Reimagined, and more
+- **Shader Update**: Solas Shader refreshed
+- **Stable Build**: Forge upgraded to 47.4.23 for improved stability
+
+---
+
+## 🔧 Fixed
+
+- No fixes in this update
+
+---
+
+## ➕ Added
+
+- No new mods added in this update
+
+---
+
+## 🔄 Changed
+
+### ⚙️ Forge Version
+
+| Version | Previous | New | Reason |
+|---------|----------|-----|--------|
+| Forge | 47.4.22 | **47.4.23** | Upgraded for improved stability |
+
+### 🎨 Updated Shader
+
+| Shader | Note |
+|--------|------|
+| **Solas Shader** | Visual update |
+
+### 📦 Updated Mods (33)
+
+<details>
+<summary><strong>View All 33 Updated Mods</strong></summary>
+
+- **BandwidthOptimizer** - Network optimization updates
+- **Botania** - Magic content updates
+- **Chunk Sending** - Chunk loading performance updates
+- **Cupboard** - Utility library updates
+- **Cyclops Core** - Core library updates
+- **Doggy Talents Next** - Dog companion content updates
+- **FancyMenu** - Menu customization updates
+- **Forestry: CE** - Forestry content updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **Inventory Essentials** - Inventory quality of life updates
+- **JEIOptimizer** - JEI performance updates
+- **JourneyMap** - Minimap and waypoint updates
+- **Just Dire Things** - Content updates
+- **Just Enough Effect Descriptions (JEED)** - Effect description updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Just Enough Mekanism Multiblocks** - Mekanism multiblock info updates
+- **Lootr Liason** - Loot container integration updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **ModernFix** - Performance updates
+- **Moog's Structure Lib (moogs_structures)** - Structure library updates
+- **MTR - Moog's Temples Reimagined** - Temple structure updates
+- **Mystical Extended Tier** - Mystical Agriculture extension updates
+- **No Chat Reports** - Chat privacy updates
+- **Reliquary Reincarnations** - Reliquary content updates
+- **Repurposed Structures** - Structure variety updates
+- **Reskillable Reimagined** - Skill system updates
+- **RFTools Builder** - Builder machine updates
+- **Sophisticated Backpacks** - Backpack upgrades
+- **Sophisticated Core** - Core library updates
+- **Sophisticated Storage** - Storage system improvements
+- **SuperMartijn642's Core Lib** - Core library updates
+- **Trash Cans** - Utility updates
+- **Underlay** - Rendering updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+- No mods removed in this update
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.1 | v1.1.2 | Changes |
+|----------|--------|--------|---------|
+| **Critical Fixes** | 1 Fix | 0 Fixes | ➖ No change |
+| **New Mods** | 0 New Mods | 0 New Mods | ➖ No change |
+| **Mods Updated** | 28 | 33 | 🔄🔥🔥🔥🔥 |
+| **Mods Removed** | 0 | 0 | ✅ Clean |
+| **Forge Version** | 47.4.22 | **47.4.23** | ⚡ Upgraded |
+| **Overall Impact** | 🎮🔥🔥 | 🎮🔥🔥🔥 | **Shader & Performance Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+2. **⚠️ CRITICAL:** All updates require a world backup as described above — always back up before updating!
+
+### After Updating
+
+- **🖼️ Solas Shader**: Updated visuals
+- **⚙️ Forge 47.4.23**: Improved stability and performance
+- **✅ Mod Verification**: Ensure all mods loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A clean, foundation-refreshing update for Jurassic World Reborn II! v1.1.2 brings 33 updated mods, a refreshed Solas Shader, and an upgrade to Forge 47.4.23 for improved stability. No mods were added or removed and no fixes were needed — a smooth, polished release to keep the pack running at its absolute best!
+
+**Update Priority:** MEDIUM (Large mod refresh with Forge upgrade)
+
+**Recommendation:** Recommended update for improved stability and fresh mod versions.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
