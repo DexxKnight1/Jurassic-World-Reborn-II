@@ -6,7 +6,7 @@
 [![Projects](https://img.shields.io/badge/My-modpacks-red?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/dexxknight1/projects)
 [![Support on Ko-fi](https://img.shields.io/static/v1?label=&message=Support%20me%20on%20Ko-fi&color=C0C0C0&labelColor=4a94fb&style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/dexxknight)
 
-[![MMC Reviews](https://i.imgur.com/c1ji64K.png)](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2)
+[![MMC Reviews](https://i.imgur.com/c1ji64K.png)](https://legacy.curseforge.com/linkout?remoteUrl=https%253a%252f%252fmoddex.gg%252fmodpack%252fjurassic-world-reborn-2)
 
 ## 🦕 Welcome to Jurassic World Reborn II 🦕
 
