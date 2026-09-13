@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v112---20260830) - 2026.08.30 (Latest)
+- [[1.1.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v113---20260913) - 2026.09.13 (Latest)
+- [[1.1.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v112---20260830) - 2026.08.30
 - [[1.1.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v111---20260816) - 2026.08.16
 - [[1.1.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v110---20260809) - 2026.08.09
 - [[1.0.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v109---20260801) - 2026.08.01
@@ -24,6 +25,150 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.3] - 2026.09.13
+
+> 📌 **HIGHLIGHT:** 7 New Mods + 35 Mods Updated + 2 Shaders Refreshed!
+
+---
+
+## ⚡ What's New in This Update
+
+- **7 New Mods**: AllTheLeaks, Bye?Pregen!, Just Enough Freezes, Spider Overhaul and more
+- **35 Mods Updated**: Tinkers Construct, Immersive Aircraft, JourneyMap, Storage Drawers and more
+- **Shader Updates**: Complementary Shaders – Reimagined and Complementary Shaders - Unbound refreshed
+- **Stable Build**: Forge remains on 47.4.23
+
+---
+
+## 🔧 Fixed
+
+- No fixes in this update — a clean content & performance release
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (7)
+
+- **AllTheLeaks (Memory Leak Fix)** — Fixes memory leaks in Minecraft and related components, preventing memory from slowly draining during long play sessions.
+- **Jade Grass Fix** — Fixes Jade's HUD not detecting entities hidden in tall grass; instead of just showing "Grass", the actual entity info (name, health, etc.) is now displayed.
+- **Just Enough Freezes (JEF)** — A genuine client-side optimization mod that improves performance and reduces loading times for Just Enough Items (JEI), tackling JEI lag in large modpacks.
+- **Bye?Pregen!** — A server-side world generation performance optimizer for 1.20.1. Optimizes block placement, memory allocation and compiled execution for density functions and surface rules. Benefits: ~50% lower average exploration lag, 30–70% lower generation-related MSPT, up to +95.2% chunk-generation throughput and fewer/shorter server freezes. Fully compatible with **C2ME** & **FastNoise**. **Not compatible with Noisium & AntiXRay** (neither is in the pack, so you're good to go!).
+- **Nyf's Spiders** — A spider enhancement mod that improves spider behaviour and integrates seamlessly with Spider Overhaul.
+- **Spider Overhaul** — A mod that improves Minecraft's spiders! Adds a wide range of redesigned spider variants (wood, ice, moss, glowing crystal, red mushroom and more), with new spiders, armor trims and a spider boss planned.
+- **Weaker Spiderwebs** — Makes cobwebs far less of a nuisance, so they no longer trap or slow you down as harshly.
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (2)
+
+| Shader | Note |
+|--------|------|
+| **Complementary Shaders – Reimagined** | Visual update |
+| **Complementary Shaders - Unbound** | Visual update |
+
+### 📦 Updated Mods (35)
+
+<details>
+<summary><strong>View All 35 Updated Mods</strong></summary>
+
+- **[TaCZ] Tacz Bullet Improvement** - Gunplay content updates
+- **Balm** - Core library updates
+- **BandwidthOptimizer** - Network optimization updates
+- **Blueprint** - Core library updates
+- **Colorwheel** - Rendering library updates
+- **Compass to Map** - Map integration updates
+- **Cyclops Core** - Core library updates
+- **Durability Tooltip** - Tooltip utility updates
+- **Euphoria Patches** - Shader patch updates
+- **ExtendedAE** - Applied Energistics extension updates
+- **Farsight** - Render distance optimization updates
+- **Forestry: CE** - Forestry content updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **Immersive Aircraft** - Aircraft content updates
+- **JEIOptimizer** - JEI performance updates
+- **JourneyMap** - Minimap and waypoint updates
+- **JourneyMap Web Map** - Web map updates
+- **Jurassic Reborn** - Dinosaur content updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Just Enough Mekanism Multiblocks** - Mekanism multiblock info updates
+- **Mantle** - Core library updates
+- **MES - Moog's End Structures** - End structure updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **ModernFix** - Performance updates
+- **Moonlight Lib** - Core library updates
+- **MTR - Moog's Temples Reimagined** - Temple structure updates
+- **MVS - Moog's Voyager Structures** - Structure content updates
+- **Polymorph** - Recipe conflict updates
+- **Sophisticated Backpacks** - Backpack upgrades
+- **Sophisticated Core** - Core library updates
+- **Storage Drawers** - Storage content updates
+- **Tinkers Construct** - Tool crafting content updates
+- **TrashSlot Blacklist Addon** - TrashSlot utility updates
+- **Treasure2** - Loot & treasure content updates
+- **Waystones** - Teleport waypoint updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+- **Au The Leaks - Au Naturel Edit** — replaced by the original **AllTheLeaks** mod
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.2 | v1.1.3 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 0 New Mods | 7 New Mods | ➕🔥🔥🔥 |
+| **Mods Updated** | 33 | 35 | 🔄🔥🔥🔥 |
+| **Shaders Updated** | 1 | 2 | 🎨🔥🔥 |
+| **Mods Removed** | 0 | 1 | 🔁 Replaced |
+| **Forge Version** | 47.4.23 | 47.4.23 | ⚡ No change |
+| **Overall Impact** | Shader & Performance | Performance & Spider Overhaul | **Performance & Spider Overhaul Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+2. **⚠️ CRITICAL:** All updates require a world backup as described above — always back up before updating!
+
+### After Updating
+
+- **🕷️ Spider Overhaul**: Spiders now come in many new variants — expect the island to feel more alive (and dangerous!)
+- **⚡ Bye?Pregen!**: World generation is now optimized — smoother exploration, faster chunk loading, fewer server freezes
+- **🧠 AllTheLeaks**: Memory leaks fixed for smoother long play sessions
+- **🖼️ Complementary Shaders**: Both Reimagined & Unbound updated to the latest versions
+- **✅ Mod Verification**: Ensure all mods loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A big content drop for Jurassic World Reborn II! v1.1.3 adds **7 new mods** — headlined by the **Spider Overhaul**, **Bye?Pregen!** world-gen optimizer, **AllTheLeaks** memory-leak fix, **Just Enough Freezes** and **Jade Grass Fix** — while refreshing **35 mods** and both **Complementary Shaders** (Reimagined & Unbound). One mod was replaced (Au The Leaks → original AllTheLeaks) and no fixes were needed. The island runs smoother, the spiders hit harder, and the pack stays on a stable Forge 47.4.23!
+
+**Update Priority:** HIGH (Major content update — 7 new mods)
+
+**Recommendation:** Recommended update for new content, better performance and smoother long sessions.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
