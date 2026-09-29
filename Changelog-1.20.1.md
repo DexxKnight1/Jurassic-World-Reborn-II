@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v113---20260913) - 2026.09.13 (Latest)
+- [[1.1.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v114---20260929) - 2026.09.29 (Latest)
+- [[1.1.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v113---20260913) - 2026.09.13
 - [[1.1.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v112---20260830) - 2026.08.30
 - [[1.1.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v111---20260816) - 2026.08.16
 - [[1.1.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v110---20260809) - 2026.08.09
@@ -25,6 +26,158 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.4] - 2026.09.29
+
+> 📌 **HIGHLIGHT:** 3 New Mods (JEI Startup Optimizer, Revived Animals & Aviation!) + 43 Mods Updated + 3 Shaders Refreshed!
+
+---
+
+## ⚡ What's New in This Update
+
+- **New Mod — Just Enough Threads**: Off-thread ingredient search indexing and parallel recipe pre-resolution — JEI startup drops from 10.7s to 6.4s, with recipe building runtime slashed from 5.18s to 0.55s
+- **New Mod — Best Revived Animals**: An unofficial community port of *Better Animals Plus* for 1.20.1, bringing new creatures and a more immersive ecosystem
+- **New Mod — Civilian Aviation**: Passenger planes and helicopters for Immersive Aircraft — fully animated, with working helicopters and retractable gear
+- **43 Mods Updated**: Allthemodium, Applied Energistics 2, Tinkers Construct, Sophisticated Backpacks, and more
+- **Shader Updates**: Complementary Shaders – Reimagined, Unbound and E-LITE shaders (MakeUp edit) refreshed
+- **Stable Build**: Forge remains on 47.4.23
+
+---
+
+## 🔧 Fixed
+
+- No fixes in this update — a clean performance & content release
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (3)
+
+- **Just Enough Threads** — A JEI startup optimizer for large modpacks. It offloads ingredient search index building to an off-thread worker and performs parallel recipe ingredient pre-resolution, so the ingredient index no longer blocks loading and builds in the background. **Measured gain:** recipe building runtime drops from **5.18s → 0.55s**, and total JEI startup goes from **10.7s → 6.4s** — big wins on heavy packs.
+- **Best Revived Animals** — An unofficial community port of *Better Animals Plus* for Minecraft 1.20.1. Brings new creatures, improved experiences and a more immersive ecosystem to Minecraft while preserving the original project's models and animations. **Features:** new animals and creatures to discover, more life and diversity for Minecraft worlds, original project models and animations preserved, immersive wildlife experience, perfect for exploration, survival and modpacks, updated for Minecraft 1.20.1.
+- **Civilian Aviation - Immersive Aircraft - Planes and Helicopters** — Adds passenger planes and helicopters to Immersive Aircraft. Fully animated with custom sounds and in-game customization, retractable landing gear and working helicopters. Client and server compatible (Forge + 2), and modpack permission is granted. 140.2K downloads and counting.
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (3)
+
+| Shader | Note |
+|--------|------|
+| **Complementary Shaders – Reimagined** | Visual update |
+| **Complementary Shaders - Unbound** | Visual update |
+| **E-LITE shaders (MakeUp edit)** | Visual update |
+
+### 📦 Updated Mods (43)
+
+<details>
+<summary><strong>View All 43 Updated Mods</strong></summary>
+
+- **Allthemodium** - Content updates
+- **Applied Energistics 2** - Storage network updates
+- **Applied Sorting** - Inventory sorting updates
+- **Bad Horse Fix** - Horse behavior fixes
+- **Balm** - Core library updates
+- **BandwidthOptimizer** - Network optimization updates
+- **Botania** - Tech & magic content updates
+- **Collective** - Shared library updates
+- **Colorwheel** - Library updates
+- **Connectivity** - Connection handling updates
+- **CraterLib** - Library updates
+- **CreativeCore** - Core library updates
+- **Cupboard** - Utility library updates
+- **Custom Nether Portals [Any Shape Nether Portals]** - Portal shape updates
+- **Entity Culling** - Rendering performance updates
+- **ExtendedAE** - AE2 addon updates
+- **Euphoria Patches** - Shader patch updates
+- **Farsight** - Rendering distance updates
+- **Fast IP Ping** - Server ping updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **G3 Doors** - Door content updates
+- **JourneyMap** - Map & minimap updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Just Enough Mekanism Multiblocks** - Mekanism multiblock info updates
+- **MalisisDoors Reborn** - Door content updates
+- **MalisisSwitches Reborn** - Switch content updates
+- **MMV - Moog's Missing Villages** - Village structure updates
+- **MNS - Moog's Nether Structures** - Nether structure updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **Moog's Structure Lib (moogs_structures)** - Structure library updates
+- **MSS - Moog's Soaring Structures** - Structure content updates
+- **MVS - Moog's Voyager Structures** - Structure content updates
+- **OptiLeaves** - Leaf rendering performance updates
+- **quick pack** - Utility updates
+- **Sophisticated Backpacks** - Backpack content updates
+- **Sophisticated Core** - Core library updates
+- **Sophisticated Storage** - Storage content updates
+- **Storage Drawers** - Storage content updates
+- **SuperMartijn642's Core Lib** - Core library updates
+- **Time in a Bottle** - Utility content updates
+- **Tinkers Construct** - Tool crafting content updates
+- **Trash Cans** - Utility content updates
+- **Underlay** - Foundation library updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+- **JEIOptimizer** — replaced by the original **Just Enough Threads** mod
+- **Just Enough Freezes** — replaced by **Just Enough Threads** (JEI startup optimization is now consolidated into a single, more effective mod)
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.3 | v1.1.4 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 7 New Mods | 3 New Mods | ➕ JEI Threads, Revived Animals, Civilian Aviation |
+| **Mods Updated** | 35 | 43 | 🔄🔥🔥🔥🔥 |
+| **Shaders Updated** | 2 | 3 | 🎨🔥🔥 |
+| **Mods Removed** | 1 | 2 | ➖ Consolidated JEI optimization |
+| **Forge Version** | 47.4.23 | 47.4.23 | ⚡ No change |
+| **Overall Impact** | Performance & Spider Overhaul | Startup, Wildlife & Aviation | **Performance & Content Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **⚡ Just Enough Threads**: JEI now builds its ingredient index off-thread and in the background — expect a noticeably faster startup on this large pack (JEI startup 10.7s → 6.4s)
+- **🧩 JEI Optimization Consolidated**: JEIOptimizer and Just Enough Freezes have both been replaced by Just Enough Threads — a single, cleaner performance solution
+- **🦌 Best Revived Animals**: New wildlife has been added — expect new creatures roaming the world (community port of Better Animals Plus for 1.20.1)
+- **✈️ Civilian Aviation**: Passenger planes and helicopters are now available through Immersive Aircraft — animated, with retractable gear and working helicopters
+- **🖼️ Shaders Refreshed**: Complementary Shaders – Reimagined, Unbound and E-LITE (MakeUp edit) updated to their latest versions
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A performance-and-content update for Jurassic World Reborn II! v1.1.4 introduces **Just Enough Threads**, a JEI startup optimizer that offloads search indexing and recipe pre-resolution — cutting building runtime from 5.18s to 0.55s and total JEI startup from 10.7s to 6.4s. It also adds **Best Revived Animals** (community port of Better Animals Plus for 1.20.1) and **Civilian Aviation** (animated planes & helicopters for Immersive Aircraft). With 43 mods refreshed, all three shaders updated, and two redundant JEI mods retired in favor of one better solution, the pack starts faster, runs smoother and feels more alive than ever!
+
+**Update Priority:** HIGH (Startup performance + new content)
+
+**Recommendation:** Highly recommended — big startup improvements plus new wildlife and aviation content.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
