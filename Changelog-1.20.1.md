@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v114---20260929) - 2026.09.29 (Latest)
+- [[1.1.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v115---20261005) - 2026.10.05 (Latest)
+- [[1.1.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v114---20260929) - 2026.09.29
 - [[1.1.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v113---20260913) - 2026.09.13
 - [[1.1.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v112---20260830) - 2026.08.30
 - [[1.1.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v111---20260816) - 2026.08.16
@@ -26,6 +27,143 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.5] - 2026.10.05
+
+> 📌 **HIGHLIGHT:** 3 New Mods (Better Biome Blend, Connected Glass, ConnectedTexturesMod) + 36 Mods Updated + Forge 47.4.26!
+
+---
+
+## ⚡ What's New in This Update
+
+- **New Mod — Better Biome Blend**: Smoother, more natural biome transitions with a larger blend radius and 3D color blending in the OKLabs color space
+- **New Mod — Connected Glass**: Seamless connected glass blocks that eliminate the visible grid between panes and blocks
+- **New Mod — ConnectedTexturesMod (CTM)**: Resource pack extension library enabling connected textures, emissive rendering and much more
+- **36 Mods Updated**: Timeless and Classics Zero Guns, JourneyMap, ModernFix, Oh The Biomes We've Gone, and more
+- **Forge Bumped**: 47.4.23 → **47.4.26** (latest stable build)
+
+---
+
+## 🔧 Fixed
+
+- No fixes in this update — a clean content and visual refresh release
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (3)
+
+- **Better Biome Blend** — Makes biome transitions smoother and more natural. It blends biome colors across a **larger radius** with **3D color blending** in the **OKLabs color space**, delivering smoother transitions with improved performance and reduced memory overhead. Compatible with **Sodium/Embeddium** and **OptiFine**. Modpack-friendly.
+- **Connected Glass** — Adds connected, seamless glass so that adjacent glass blocks and panes no longer show internal borders. By **SuperMartijn642**, it brings a clean, uninterrupted glass look to builds of any size.
+- **ConnectedTexturesMod (CTM)** — A **resource pack extension library** that allows resource packs to add **connected textures**, **emissive rendering** and much more. It is the backbone used by many packs and mods (required by **Chisel**), and it powers the connected-texture look across the pack.
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (36)
+
+<details>
+<summary><strong>View All 36 Updated Mods</strong></summary>
+
+- **[TaCZ] Timeless and Classics Zero Guns** - Firearm content updates
+- **AmbientSounds 6** - Ambient audio updates
+- **Anvil Restoration** - Anvil utility updates
+- **Chunk Sending** - Network/chunk performance updates
+- **Collective** - Core library updates
+- **Corail Tombstone** - Grave & death mechanic updates
+- **Cycle Paintings** - Painting utility updates
+- **FancyMenu** - Menu customization updates
+- **Fixed Anvil Repair Cost** - Anvil cost fix updates
+- **Fusion (Connected Textures)** - Connected textures updates
+- **Gnetum** - Wood/tree content updates
+- **Jade Grass Fix** - Jade grass rendering updates
+- **JourneyMap** - Map & waypoint updates
+- **Just Dire Things** - Tech content updates
+- **Just Enough Breeding (JEBr)** - Breeding info updates
+- **Just Enough Items (JEI)** - Recipe viewing updates
+- **Just Enough Mekanism Multiblocks** - Mekanism multiblock info updates
+- **Just Enough Threads [JEI Startup Optimize]** - JEI startup performance updates
+- **Just Zoom** - Zoom utility updates
+- **Laser Bridges & Doors** - Laser block updates
+- **Lootr Liaison** - Lootr integration updates
+- **MezzConfig** - Config library updates
+- **ModernFix** - Performance updates
+- **Moog's Structure Lib (moogs_structures)** - Structure library updates
+- **No Animal Tempt Delay** - Animal interaction updates
+- **Nyf's Spiders** - Spider behavior updates
+- **Oh The Biomes We've Gone** - Biome content updates
+- **Oh The Trees You'll Grow** - Tree content updates
+- **OptiLeaves** - Foliage performance updates
+- **Rhenium** - Performance/library updates
+- **Sophisticated Backpacks** - Backpack content updates
+- **Sophisticated Core** - Sophisticated core library updates
+- **Tinkers' Thinking** - Tinkers addon updates
+- **Trash Cans** - Trash can utility updates
+- **Villager Names** - Villager naming updates
+- **Weaker Spiderwebs** - Spiderweb balance updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (1)
+
+- **Better Biome Reblend** — replaced by the original **Better Biome Blend** mod. The reblend fork is no longer needed; the original provides the improved biome blending and is the actively maintained version.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.4 | v1.1.5 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 3 New Mods | 3 New Mods | ➕ 3 New Mods |
+| **Mods Updated** | 43 | 36 | 🔄🔥🔥🔥 |
+| **Shaders Updated** | 3 | 0 | — |
+| **Mods Removed** | 2 | 1 | 🗑️ 1 Replaced |
+| **Forge Version** | 47.4.23 | 47.4.26 | ⚡ Upgrade! |
+| **Overall Impact** | Startup, Wildlife & Aviation | Biome Blend, Glass & CTM | **Biome Blend, Glass & CTM Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🌍 Better Biome Blend**: Biome transitions should look smoother and more natural — no performance hit, fully compatible with Sodium/Embeddium and OptiFine
+- **🪟 Connected Glass**: Glass blocks and panes now connect seamlessly — interior borders are gone
+- **🎨 ConnectedTexturesMod**: Connected textures and emissive rendering are now supported through the CTM library (also required by Chisel)
+- **⚙️ Forge 47.4.26**: The pack now runs on the latest stable Forge build — recommended to update the modpack profile accordingly
+- **🗑️ Better Biome Reblend removed**: The original Better Biome Blend takes over biome blending — no config action needed
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A visual and startup-focused update for Jurassic World Reborn II! v1.1.5 adds **Better Biome Blend** (smoother, more natural biome transitions with low memory overhead), **Connected Glass** (seamless glass with no internal borders) and **ConnectedTexturesMod** (the resource-pack library powering connected textures, emissive rendering and more — required by Chisel). **36 mods** are refreshed across the pack, **Better Biome Reblend** steps aside in favor of the original **Better Biome Blend**, and **Forge is bumped to 47.4.26** — the latest stable build. No fixes were needed — a clean, beautiful release!
+
+**Update Priority:** MEDIUM (Visual polish & Forge upgrade)
+
+**Recommendation:** Recommended update for smoother biome blending, seamless glass, and the latest Forge build.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
