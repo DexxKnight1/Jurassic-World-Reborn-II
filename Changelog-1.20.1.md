@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v115---20261005) - 2026.10.05 (Latest)
+- [[1.1.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v116---20261012) - 2026.10.12 (Latest)
+- [[1.1.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v115---20261005) - 2026.10.05
 - [[1.1.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v114---20260929) - 2026.09.29
 - [[1.1.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v113---20260913) - 2026.09.13
 - [[1.1.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v112---20260830) - 2026.08.30
@@ -27,6 +28,128 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.6] - 2026.10.12
+
+> 📌 **HIGHLIGHT:** 2 Critical Rendering Fixes + 1 New Mod (FTB Backups 2) + 20 Mods Updated + Forge 47.4.26!
+
+---
+
+## ⚡ What's New in This Update
+
+- **Fixed — Advanced Solar Generator**: Corrected the rendering offset by tweaking ModernFix configs
+- **Fixed — Immersive Engineering Water Wheels / Windmills**: No longer render invisible when shaders are enabled (VBO disabled in client config)
+- **New Mod — FTB Backups 2**: Silent, automatic world backups with configurable backup counts, advanced backup control and backup commands
+- **20 Mods Updated**: ModernFix, Oh The Biomes We've Gone, Sophisticated Backpacks/Core/Storage, Moonlight Lib, Entity Culling and more
+- **Removed — Advanced Backups**: Replaced by the new FTB Backups 2 mod
+- **Forge**: 47.4.26 (unchanged — latest stable build)
+
+---
+
+## 🔧 Fixed
+
+- **Advanced Solar Generator** — Fixed the rendering offset by tweaking **ModernFix** configs, so the generator's visuals now line up correctly.
+- **Immersive Engineering Water Wheels / Windmills** — Fixed them rendering invisible when **shaders** are enabled, by **disabling VBO** in the client config.
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (1)
+
+- **FTB Backups 2** — A reliable automatic world backup mod. It performs **silent backups** that don't interrupt gameplay, supports a **configurable amount of backups**, provides **advanced backup control**, and adds **commands** to trigger an immediate backup or create a snapshot. A perfect safety net for your world before and after every update. Modpack-friendly.
+
+---
+
+## 🔄 Changed
+
+### 📦 Updated Mods (20)
+
+<details>
+<summary><strong>View All 20 Updated Mods</strong></summary>
+
+- **AmbientSounds 6** - Ambient audio updates
+- **BandwidthOptimizer** - Network performance updates
+- **Collective** - Core library updates
+- **CorgiLib** - Library updates
+- **Entity Culling** - Rendering performance updates
+- **G3 Doors** - Door content updates
+- **GottschCore** - Core library updates
+- **Just Enough Threads [JEI Startup Optimize]** - JEI startup performance updates
+- **ModernFix** - Performance updates
+- **Moonlight Lib** - Library updates
+- **Oh The Biomes We've Gone** - Biome content updates
+- **Oh The Trees You'll Grow** - Tree content updates
+- **Puzzles Lib** - Library updates
+- **Sophisticated Backpacks** - Backpack content updates
+- **Sophisticated Core** - Sophisticated core library updates
+- **Sophisticated Storage** - Storage content updates
+- **Sophisticated Storage Create Integration** - Create integration updates
+- **SuperMartijn642's Core Lib** - Core library updates
+- **Tesseract** - Tech content updates
+- **Tinkers' Thinking** - Tinkers addon updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (1)
+
+- **Advanced Backups** — replaced by the new **FTB Backups 2** mod, which provides more robust, silent automatic backups with better control and commands.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.5 | v1.1.6 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 3 New Mods | 1 New Mod | ➕ 1 New Mod |
+| **Mods Updated** | 36 | 20 | 🔄🔥🔥 |
+| **Shaders Updated** | 0 | 0 | — |
+| **Mods Removed** | 1 | 1 | 🗑️ 1 Replaced |
+| **Critical Fixes** | 0 | 2 | 🛠️ Rendering Fixes |
+| **Forge Version** | 47.4.26 | 47.4.26 | ✅ Unchanged |
+| **Overall Impact** | Biome Blend, Glass & CTM | Backup & Rendering Fix | **Backup & Rendering Fix Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🔧 Advanced Solar Generator**: Rendering offset is fixed — the generator's visuals now line up correctly
+- **🌊 Immersive Engineering Water Wheels / Windmills**: Now render correctly with shaders enabled (VBO disabled in client config)
+- **🆕 FTB Backups 2**: Silent automatic backups are now active — set your preferred backup amount and use the backup commands as needed
+- **🗑️ Advanced Backups removed**: **FTB Backups 2** takes over as the backup solution — no config action needed
+- **⚙️ Forge 47.4.26**: The pack continues to run on the latest stable Forge build
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A stability and safety release for Jurassic World Reborn II! v1.1.6 fixes **two rendering issues** — the **Advanced Solar Generator** rendering offset (by tweaking ModernFix configs) and **Immersive Engineering Water Wheels/Windmills** rendering invisible when shaders are enabled (by disabling VBO in the client config). It also adds **FTB Backups 2** for silent, automatic world backups with configurable control, and refreshes **20 mods** across the pack. **Advanced Backups** steps aside in favor of the more capable **FTB Backups 2**. Forge stays on **47.4.26** — the latest stable build.
+
+**Update Priority:** HIGH (Rendering fixes & backup safety)
+
+**Recommendation:** Recommended update — resolves visible rendering bugs and adds reliable automatic backups.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
