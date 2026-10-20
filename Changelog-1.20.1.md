@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v116---20261012) - 2026.10.12 (Latest)
+- [[1.1.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v117---20261020) - 2026.10.20 (Latest)
+- [[1.1.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v116---20261012) - 2026.10.12
 - [[1.1.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v115---20261005) - 2026.10.05
 - [[1.1.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v114---20260929) - 2026.09.29
 - [[1.1.3]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v113---20260913) - 2026.09.13
@@ -28,6 +29,151 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.7] - 2026.10.20
+
+> 📌 **HIGHLIGHT:** 2 New Shaders (Bliss + Sildur's Vibrant) + 2 New Mods (Optimized Block Entities + Just Enough Loading) + 29 Mods Updated + Forge 47.4.28!
+
+---
+
+## ⚡ What's New in This Update
+
+- **New Shader — Bliss Shaders**: Fantasy shaderpack by Xonk__, a reworked edit of Chocapic13's shaders with its own distinctive style
+- **New Shader — Sildur's Vibrant Shaders**: Revamped lighting, volumetric light, bloom, AO and reflections — optimized for weaker hardware
+- **New Mod — Optimized Block Entities**: Client-side optimization meshing block entities into terrain for faster rendering and better FPS
+- **New Mod — Just Enough Loading**: Improved, configurable loading screen with optional Iron's Spells support
+- **2 Shaders Updated**: E-LITE shaders (MakeUp edit) and Solas Shader
+- **29 Mods Updated**: ModernFix, Moonlight Lib, Sophisticated suite, Supplementaries, CC: Tweaked and more
+- **Removed — Just Enough Threads**: Replaced by the new Just Enough Loading mod
+- **Forge**: 47.4.28 (unchanged — latest stable build)
+
+---
+
+## 🔧 Fixed
+
+- No bug fixes in this update — this is a content and performance release.
+
+---
+
+## ➕ Added
+
+### 🎨 New Shaders (2)
+
+- **Bliss Shaders** — A fantasy-styled shaderpack by **Xonk__**. Built as an edit of **Chocapic13's** shaders, but with the author's own well-developed visual style — lush, atmospheric visuals with a distinct personality. 31.3M downloads, actively maintained for 1.20.1.
+- **Sildur's Vibrant Shaders** — A classic vibrant shaderpack with **revamped lighting**, **volumetric lighting**, **bloom**, **ambient occlusion** and **reflections**. Known for excellent compatibility across hardware, including **Mac and Intel GPUs** — medium/high presets run well even on a GTX 960.
+
+### 🆕 New Mods (2)
+
+- **Optimized Block Entities** — A **client-side** optimization mod that makes block entities render much faster. Supported block entities are **meshed into the terrain** (static animations are rendered through the terrain), giving **higher FPS**, **smooth lighting and ambient occlusion preserved**, and **better render distance**. Fully **configurable**, compatible with **EMF**, **ETF** and **FA: Objects**. Inspired by Better Block Entities.
+- **Just Enough Loading** — Gives you control over the loading experience with sensible defaults, configurable limits and optional support for **Iron's Spells**. Replaces **Just Enough Threads** as the startup optimization solution. Client-side, lightweight (40 KB).
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (2)
+
+- **E-LITE shaders (MakeUp edit)** — Shader updates
+- **Solas Shader** — Shader updates
+
+### 📦 Updated Mods (29)
+
+<details>
+<summary><strong>View All 29 Updated Mods</strong></summary>
+
+- **AllTheLeaks (Memory Leak Fix)** - Memory leak fixes
+- **AmbientSounds 6** - Ambient audio updates
+- **BandwidthOptimizer** - Network performance updates
+- **Bye?Pregen!** - World pre-generation updates
+- **CC: Tweaked** - ComputerCraft updates
+- **Collective** - Core library updates
+- **Just Dire Things** - Tech content updates
+- **Just Enough Items (JEI)** - Item viewer updates
+- **Laser Bridges & Doors** - Tech content updates
+- **MalisisSwitches Reborn** - Switch content updates
+- **Moderately Enough Effect Descriptions (MEED)** - Effect description updates
+- **ModernFix** - Performance updates
+- **Moonlight Lib** - Library updates
+- **Mystical Extended Tier** - Mystical content updates
+- **Neruina - Ticking Entity Fixer** - Entity tick fix updates
+- **Reliquary Reincarnations** - Reliquary content updates
+- **Reskillable Reimagined** - Skill system updates
+- **Server Performance - Smooth Chunk Save** - Server performance updates
+- **Sophisticated Backpacks** - Backpack content updates
+- **Sophisticated Core** - Sophisticated core library updates
+- **Sophisticated Storage** - Storage content updates
+- **Sophisticated Storage Create Integration** - Create integration updates
+- **SuperMartijn642's Core Lib** - Core library updates
+- **Supplementaries** - Content mod updates
+- **Tinkers Integrations and Tweaks** - Tinkers integration updates
+- **Tinkers' Levelling Addon** - Tinkers addon updates
+- **TrashSlot Blacklist Addon** - TrashSlot addon updates
+- **Treasure2** - Loot and treasure content updates
+- **Villager Names** - Villager naming updates
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (1)
+
+- **Just Enough Threads (JEI Startup Optimize)** — replaced by the **Just Enough Loading** mod, which provides a cleaner, more configurable approach to loading optimization.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.6 | v1.1.7 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 1 New Mod | 2 New Mods | ➕ 2 New Mods |
+| **New Shaders** | 0 | 2 | 🎨 2 Added |
+| **Mods Updated** | 20 | 29 | 🔄🔥🔥🔥 |
+| **Shaders Updated** | 0 | 2 | 🎨🔥 |
+| **Mods Removed** | 1 | 1 | 🗑️ 1 Replaced |
+| **Critical Fixes** | 2 | 0 | — |
+| **Forge Version** | 47.4.26 | 47.4.28 | ✅ Unchanged |
+| **Overall Impact** | Backup & Rendering Fix | Shaders & Rendering Optimization | **Shaders & Rendering Optimization Update** |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### Before Updating
+
+1. **🌐 BACKUP YOUR WORLD** – Always recommended before any update. This ensures you can revert if issues occur.
+
+### After Updating
+
+- **🎨 New Shaders**: Open **Video Settings → Shaders** and try **Bliss Shaders** or **Sildur's Vibrant Shaders** — both ship with multiple quality presets
+- **🧩 Just Enough Loading**: Replaces Just Enough Threads — no manual action needed, just launch the game
+- **⚡ Optimized Block Entities**: Active by default on the client — check the config if you want to fine-tune which block entities are optimized
+- **⚙️ Forge 47.4.28**: The pack continues to run on the latest stable Forge build
+- **🔧 Mod Compatibility**: Verify all mods load correctly with any existing custom configurations
+- **✅ Script Verification**: Ensure all KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+A visual and performance release for Jurassic World Reborn II! v1.1.7 adds **two new shaderpacks** — the atmospheric fantasy look of **Bliss Shaders** and the classic **Sildur's Vibrant Shaders** with strong hardware compatibility. On the optimisation side, **Optimized Block Entities** meshes block entities into the terrain for noticeably better FPS and render distance, while **Just Enough Loading** takes over from Just Enough Threads as the startup solution. **29 mods** were refreshed along with **2 existing shaders** (E-LITE MakeUp edit and Solas). There are no bug fixes this time — this is a content, visuals and performance update. Forge stays on **47.4.28**.
+
+**Update Priority:** MEDIUM (Visual content & performance, no critical fixes)
+
+**Recommendation:** Recommended update — a strong visual upgrade paired with client-side rendering gains and a cleaner startup pipeline.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [Jurassic World Reborn II GitHub](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- **Issue Tracker**: [Report Bugs](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- **Discord Community**: [Join Us](https://discord.gg/JMqZhxk7gA)
+- **Full Changelog**: [Complete History](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md)
+- **CurseForge Page**: [Download Here](https://legacy.curseforge.com/minecraft/modpacks/jurassic-world-reborn-2/files)
 
 ---
 
