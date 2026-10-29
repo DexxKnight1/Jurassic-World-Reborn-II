@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v117---20261020) - 2026.10.20 (Latest)
+- [[1.1.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v118---20261029) - 2026.10.29 (Latest)
+- [[1.1.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v117---20261020) - 2026.10.20
 - [[1.1.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v116---20261012) - 2026.10.12
 - [[1.1.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v115---20261005) - 2026.10.05
 - [[1.1.4]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v114---20260929) - 2026.09.29
@@ -29,6 +30,138 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 JWR2-v1.1.8 - 2026.10.29
+
+## 📌 HIGHLIGHT
+
+**Jurassic World Reborn II v1.1.8 — Memory & Create Patch Update!** 🦖
+This release brings two quality-of-life additions to the pack — **Furia Memory** for smarter memory management and **Create Repair** to keep your contraptions bug-free — alongside a solid round of 30 refreshed mods. Forge stays on stable **47.4.28**.
+
+---
+
+## ⚡ What's New
+
+- ➕ **Added:** 2 new mods — Furia Memory, Create Repair
+- 🔄 **Updated:** 30 mods
+- 🛠️ **Fixed:** None in this release
+- 🗑️ **Removed:** None — clean release
+- ⚙️ **Forge:** 47.4.28 (unchanged — stable build)
+
+---
+
+## 🔧 Fixed
+
+- No fixes documented in this release — clean update batch.
+
+---
+
+## ➕ Added
+
+### 🧠 Furia Memory
+A lightweight Minecraft optimization mod focused on **memory management**, designed for both singleplayer and servers. It gives you manual control over memory cleanup to improve stability and reduce lag spikes.
+
+### 🔩 Create Repair
+A community patch for the **Create** mod — fixes bugs and backports features to keep your Create contraptions running smoothly on 1.20.1.
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (0)
+
+- No shader changes in this update.
+
+### 📦 Updated Mods (30)
+
+<details>
+<summary><strong>Click to expand full list of 30 updated mods</strong></summary>
+
+- AEInfinityBooster
+- Applied Energistics 2
+- Async Logger
+- Civilian Aviation - Immersive Aircraft - Planes and Helicopters
+- Collective
+- ExtendedAE
+- Farsight
+- GottschCore
+- Just Dire Things
+- Just Enough Items (JEI)
+- Just Zoom
+- MalisisDoors Reborn
+- MalisisSwitches Reborn
+- McJtyLib
+- MezzConfig
+- ModernFix
+- Moonlight Lib
+- Mystical Extended Tier
+- Netherite Tweaks & Fixes
+- Optimized Block Entities
+- RFTools Builder
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Spider Overhaul
+- Structure Essentials
+- SuperMartijn642's Core Lib
+- Trash Cans
+- Treasure2
+- Villager Names
+
+</details>
+
+---
+
+## ➖ Removed
+
+- No mods removed in this release — clean update.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.7 | v1.1.8 | Impact |
+|----------|--------|--------|--------|
+| New Mods | 2 | 2 | ➕ 2 New Mods |
+| Mods Updated | 29 | 30 | 🔄🔥🔥🔥 |
+| Shaders Updated | 2 | 0 | — |
+| Mods Removed | 1 | 0 | ✅ Clean |
+| Critical Fixes | 0 | 0 | — |
+| Forge Version | 47.4.28 | 47.4.28 | ✅ Stable |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### ✅ Before Updating
+- 💾 **Backup your world** before installing this update — always recommended!
+
+### 🎯 After Updating
+- 🧠 **Furia Memory** — tune memory cleanup to suit your server or singleplayer setup
+- 🔩 **Create Repair** — enjoy a smoother, bug-free Create experience
+- 📦 **30 mods refreshed** — core libraries, AE2, and content mods all updated to latest
+- ✅ Verify mod compatibility with existing scripts and custom configurations
+- 📖 Ensure KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+> **Update Priority: 🟡 MEDIUM**
+> Two new QoL mods and a broad 30-mod refresh make this a worthwhile but non-critical update. Forge remains stable at 47.4.28.
+
+🔗 **All updates require a world backup as described above.**
+
+---
+
+## 🔗 Links
+
+- 💬 **Discord:** [Join Our Community](https://discord.gg/JMqZhxk7gA)
+- 🐙 **GitHub:** [Source Code & Repository](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- 🐛 **Issue Tracker:** [Report Bugs & Suggestions](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- 📜 **Full Changelog:** [Complete History](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md)
 
 ---
 
