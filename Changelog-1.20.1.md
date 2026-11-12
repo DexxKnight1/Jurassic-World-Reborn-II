@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v118---20261029) - 2026.10.29 (Latest)
+- [[1.1.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v119---20261112) - 2026.11.12 (Latest)
+- [[1.1.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v118---20261029) - 2026.10.29
 - [[1.1.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v117---20261020) - 2026.10.20
 - [[1.1.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v116---20261012) - 2026.10.12
 - [[1.1.5]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v115---20261005) - 2026.10.05
@@ -30,6 +31,166 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.1.9] - 2026.11.12
+
+> 📌 **HIGHLIGHT:** 4 New Mods (Alex's Mobs: Tweaks + JEI Rewired + TaCZ:Accel + Quantified API) + 1 Shader Updated (Solas) + 48 Mods Updated + 4 Removed + Forge 47.4.28!
+
+---
+
+## ⚡ What's New in This Update
+
+- **New Mod — [AMT] Alex's Mobs: Tweaks**: optimizes pathfinding and reduces CPU usage without altering mob behavior
+- **New Mod — [JEIR] JEI Rewired**: rewires JEI for much faster startup (v1.2.0, Forge & Fabric 1.20.1, powered by Quantified API) — replaces Just Enough Loading
+- **New Mod — [TaCZ:Accel] Timeless and Classics Zero Guns: Accelerated**: performance addon for TaCZ reducing CPU and RAM (V1.3.0) — replaces TaCZ Optimization and TaCZ Bullet Improvement
+- **New Mod — [QAPI] Quantified API**: performance framework for mods (V2)
+- **1 Shader Updated**: Solas Shader
+- **48 Mods Updated**: full TaCZ suite, JEI, libraries and content mods
+- **4 Mods Removed**: Just Enough Loading, TaCZ Optimization, Tacz Bullet Improvement (replaced) + Applied TaCZ (temporarily removed)
+- **Forge**: 47.4.28 (unchanged — latest stable build)
+
+---
+
+## 🔧 Fixed
+
+- No bug fixes in this update — this is a performance and optimization release.
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (4)
+
+- **[AMT] Alex's Mobs: Tweaks** — a performance mod that optimizes pathfinding and reduces CPU usage for Alex's Mobs, with no change to mob behavior. Powered by Quantified API.
+- **[JEIR] JEI Rewired** — v1.2.0 (Forge & Fabric 1.20.1). Rewires JEI for noticeably faster startup. Powered by Quantified API. Replaces **Just Enough Loading**.
+- **[TaCZ:Accel] Timeless and Classics Zero Guns: Accelerated** — a performance addon for **TaCZ** that reduces CPU and RAM usage. **V1.3.0** brings one OmniJar for Forge 1.20.1, GPU-resident gun geometry and cheaper bullet collision checks. *(Development notice: work in progress — may have bugs or performance issues.)*
+- **[QAPI] Quantified API** — a performance framework for mods (V2): proper async scheduling, parallel execution, dependency-aware task graphs, backend-aware compute routing, duplicate task suppression, advanced caching, automatic mod registration and live diagnostics.
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (1)
+
+- **Solas Shader** — shader updates
+
+### 📦 Updated Mods (48)
+
+<details>
+<summary><strong>Click to expand full list of 48 updated mods</strong></summary>
+
+- [TacZ] Curios For Ammo Box
+- [TaCZ] Applied Ammo Box
+- [TaCZ] Timeless and Classics Zero Guns
+- AEInfinityBooster
+- AllTheLeaks (Memory Leak Fix)
+- Carry On Extend
+- Collective
+- Colorwheel
+- Compass to Map: JourneyMap & Explorer's Compass & Nature's Compass Addon
+- CreativeCore
+- Cycle Paintings
+- Cyclops Core
+- Deimos Lib
+- Entangled
+- EXP Counter
+- FancyMenu
+- Fixed Anvil Repair Cost
+- Forestry: CE
+- G3 Doors
+- Just Dire Things
+- Just Enough Items (JEI)
+- Laser Bridges & Doors
+- Lithostitched
+- MalisisDoors Reborn
+- MalisisSwitches Reborn
+- Mantle
+- McJtyLib
+- MezzConfig
+- Moderately Enough Effect Descriptions (MEED)
+- ModernFix
+- Moonlight Lib
+- Mystical Extended Tier
+- Oh The Trees You'll Grow
+- Optimized Block Entities
+- Prefab
+- Reliquary Reincarnations
+- Reskillable Reimagined
+- RFTools Utility
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- SuperMartijn642's Core Lib
+- TACT - Tiny Alex's Caves Tweaks
+- TaCZ Tweaks
+- Tesseract
+- Tinkers' Thinking
+- Titanium
+- Villager Names
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (4)
+
+- **Just Enough Loading** — replaced by **[JEIR] JEI Rewired**.
+- **[TaCZ] Optimization** — replaced by **[TaCZ:Accel] Timeless and Classics Zero Guns: Accelerated**.
+- **[TaCZ] Tacz Bullet Improvement** — replaced by **[TaCZ:Accel] Timeless and Classics Zero Guns: Accelerated**.
+- **Applied TaCZ** — temporarily removed because it has not been updated to the latest version of TaCZ.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.8 | v1.1.9 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 2 | 4 | ➕🔥🔥 |
+| **Mods Updated** | 30 | 48 | 🔄🔥🔥🔥 |
+| **Shaders Updated** | 0 | 1 | 🔄 |
+| **Mods Removed** | 0 | 4 | 🗑️ Replaced |
+| **Critical Fixes** | 0 | 0 | — |
+| **Forge Version** | 47.4.28 | 47.4.28 | ✅ Stable |
+| **Overall Impact** | Memory & Create Patch | Performance Framework & Gun Acceleration | Performance + Optimization |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### ✅ Before Updating
+- 💾 **Backup your world** before installing this update — always recommended!
+
+### 🎯 After Updating
+- 🧠 **Quantified API**: keep it installed alongside AMT, JEI Rewired and TaCZ:Accel — they depend on it
+- ⚡ **JEI Rewired**: replaces Just Enough Loading — no manual action needed, just launch the game
+- 🔫 **TaCZ:Accel**: replaces TaCZ Optimization and TaCZ Bullet Improvement — safe to delete both
+- ⏳ **Applied TaCZ**: temporarily removed until it updates to the latest TaCZ version
+- 🎨 **Solas Shader**: updated — check your shader settings after updating
+- 📦 **48 mods refreshed** — the full TaCZ suite, JEI, libraries and content mods all updated to latest
+- ✅ Verify mod compatibility with existing scripts and custom configurations
+- 📖 Ensure KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+> **Update Priority: 🟡 MEDIUM**
+> A strong performance-focused release: a new optimization stack (Quantified API + AMT + JEI Rewired + TaCZ:Accel), a full 48-mod refresh and updated Solas Shader. Forge remains stable at 47.4.28.
+
+🔗 **All updates require a world backup as described above.**
+
+---
+
+## 🔗 Links
+
+- 💬 **Discord:** [Join Our Community](https://discord.gg/JMqZhxk7gA)
+- 🐙 **GitHub:** [Source Code & Repository](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- 🐛 **Issue Tracker:** [Report Bugs & Suggestions](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- 📜 **Full Changelog:** [Complete History](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md)
 
 ---
 
