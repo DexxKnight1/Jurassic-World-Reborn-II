@@ -11,7 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ---
 
 Table of Contents
-- [[1.1.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v119---20261112) - 2026.11.12 (Latest)
+- [[1.2.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v120---20261119) - 2026.11.19 (Latest)
+- [[1.1.9]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v119---20261112) - 2026.11.12
 - [[1.1.8]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v118---20261029) - 2026.10.29
 - [[1.1.7]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v117---20261020) - 2026.10.20
 - [[1.1.6]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v116---20261012) - 2026.10.12
@@ -31,6 +32,143 @@ Table of Contents
 - [[1.0.2]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v102---20260511) - 2026.05.11
 - [[1.0.1]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v101---20260503) - 2026.05.03
 - [[1.0.0]](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md#-jwr2-v100---20260424) - 2026.04.24 (Initial 1.20.1 Release)
+
+---
+
+# 🎮🔥 [JWR2-v1.2.0] - 2026.11.19
+
+> 📌 **HIGHLIGHT:** 2 New Mods (Applied TaCZ re-added + AsyncParticles) + 2 Shaders Updated (Complementary Reimagined & Unbound) + 32 Mods Updated + 0 Removed + **Forge 47.4.28 → 47.4.29**!
+
+---
+
+## ⚡ What's New in This Update
+
+- **New Mod — Applied TaCZ (re-added)**: integrates TaCZ workbenches with AE2 — restored now that it supports the latest TaCZ version
+- **New Mod — AsyncParticles**: GPU-accelerated particle rendering, big FPS gains in heavy scenes
+- **2 Shaders Updated**: Complementary Shaders - Reimagined & Complementary Shaders - Unbound
+- **32 Mods Updated**: TaCZ suite, libraries and content mods
+- **0 Mods Removed**: clean release
+- **Forge**: 47.4.28 → **47.4.29** (upgraded — stable build)
+
+---
+
+## 🔧 Fixed
+
+- No bug fixes in this update — this is a performance, integration and maintenance release.
+
+---
+
+## ➕ Added
+
+### 🆕 New Mods (2)
+
+- **Applied TaCZ** — *Re-added because it has been updated to the latest version of TaCZ.* Integrates Timeless and Classics Zero (TaCZ) workbenches with Applied Energistics 2 (AE2). It adds AE-Support versions of the **Gun Smith Table**, **Ammo Workbench** and **Attachment Workbench**, shows **combined ingredient counts** from both your player inventory and the ME network, and crafts by **consuming player inventory first, then ME network storage**. *(License: code GNU GPL 3.0; TaCZ assets CC BY-NC-ND 4.0 by the TaCZ team.)*
+- **AsyncParticles** — a GPU-accelerated particle renderer that offloads particle work off the main thread. Benchmarks show huge gains (**~577 FPS** with Sodium + AsyncParticles vs **~194 FPS** with Sodium alone), with higher and more stable frame times.
+
+---
+
+## 🔄 Changed
+
+### 🎨 Updated Shaders (2)
+
+- **Complementary Shaders - Reimagined**
+- **Complementary Shaders - Unbound**
+
+### 📦 Updated Mods (32)
+
+<details>
+<summary><strong>Click to expand full list of 32 updated mods</strong></summary>
+
+- [JEIR] | JEI Rewired
+- [TaCZ] Applied Ammo Box
+- [TaCZ] Timeless and Classics Zero Guns
+- AllTheLeaks (Memory Leak Fix)
+- BandwidthOptimizer
+- Collective
+- Cooking for Blockheads
+- Cyclops Core
+- Entity Culling
+- Euphoria Patches
+- G3 Doors
+- Gnetum
+- Industrial Foregoing
+- Just Dire Things
+- Just Enough Items (JEI)
+- Kerria
+- MalisisDoors Reborn
+- ModernFix
+- OpenBlocks Elevator
+- Optimized Block Entities
+- PackagedAuto
+- PackagedMekemicals
+- Reliquary Reincarnations
+- Reskillable Reimagined
+- RightClickHarvest
+- ShatterLib | OctoLib
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Structure Layout Optimizer
+- SuperMartijn642's Core Lib
+- Supplementaries
+
+</details>
+
+---
+
+## ➖ Removed
+
+### 🗑️ Removed Mods (0)
+
+- No mods removed in this update — clean release.
+
+---
+
+## 📊 Impact Summary
+
+| Category | v1.1.9 | v1.2.0 | Changes |
+|----------|--------|--------|---------|
+| **New Mods** | 4 | 2 | ➕ |
+| **Mods Updated** | 48 | 32 | 🔄🔥🔥 |
+| **Shaders Updated** | 1 | 2 | 🔄 |
+| **Mods Removed** | 4 | 0 | ✅ Clean |
+| **Critical Fixes** | 0 | 0 | — |
+| **Forge Version** | 47.4.28 | 47.4.29 | ⚡ Upgraded |
+| **Overall Impact** | Performance Framework & Gun Acceleration | AsyncParticles & Applied TaCZ | Performance + Forge Bump |
+
+---
+
+## ⚠️ Upgrade Notes
+
+### ✅ Before Updating
+- 💾 **Backup your world** before installing this update — always recommended!
+- ⚙️ **Forge Bump:** this update moves Forge from **47.4.28 → 47.4.29** — make sure your launcher uses the new version.
+
+### 🎯 After Updating
+- 🔧 **Applied TaCZ**: back in the pack — safe to use now that it supports the latest TaCZ
+- ✨ **AsyncParticles**: client-side rendering boost — expect higher FPS, especially with Sodium
+- 🎨 **Complementary Shaders** (Reimagined & Unbound): updated — check your shader settings after updating
+- 📦 **32 mods refreshed** — the TaCZ suite, libraries and content mods all updated to latest
+- ✅ Verify mod compatibility with existing scripts and custom configurations
+- 📖 Ensure KubeJS scripts loaded correctly on server startup
+
+---
+
+## 🏆 Special Notes
+
+> **Update Priority: 🟡 MEDIUM**
+> A performance & integration release: GPU-accelerated particles (AsyncParticles), Applied TaCZ returns with the latest TaCZ support, two Complementary shaders refreshed, 32 mods updated and a **Forge bump to 47.4.29** — make sure the launcher uses the new version.
+
+🔗 **All updates require a world backup as described above.**
+
+---
+
+## 🔗 Links
+
+- 💬 **Discord:** [Join Our Community](https://discord.gg/JMqZhxk7gA)
+- 🐙 **GitHub:** [Source Code & Repository](https://github.com/DexxKnight1/Jurassic-World-Reborn-II)
+- 🐛 **Issue Tracker:** [Report Bugs & Suggestions](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/issues)
+- 📜 **Full Changelog:** [Complete History](https://github.com/DexxKnight1/Jurassic-World-Reborn-II/blob/main/Changelog-1.20.1.md)
 
 ---
 
